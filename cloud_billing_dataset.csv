@@ -1,0 +1,1518 @@
+Date,Service,UsageType,UsageQuantity,Cost
+2025-01-26,Amazon EC2,Database,2.35,0.45
+2025-01-26,Google Compute Engine,Storage,6.58,0.81
+2025-01-26,Amazon RDS,Compute,0.85,0.03
+2025-01-26,Amazon S3,Networking,0.3,0.05
+2025-01-26,AWS Lambda,Compute,4.6,0.66
+2025-01-26,Amazon EC2,Compute,0.1,0.02
+2025-01-27,Google Compute Engine,Networking,8.93,0.45
+2025-01-27,Amazon EC2,Networking,1.0,0.04
+2025-01-27,Google Compute Engine,Networking,1.81,0.2
+2025-01-27,AWS Lambda,Storage,2.83,0.18
+2025-01-27,GCP Cloud Functions,Networking,4.73,0.17
+2025-01-27,Google Cloud Storage,Compute,1.73,0.14
+2025-01-27,Amazon RDS,Serverless,3.04,0.48
+2025-01-27,Google BigQuery,Database,1.11,0.12
+2025-01-28,Google Compute Engine,Database,4.49,0.08
+2025-01-28,Amazon S3,Compute,4.68,0.2
+2025-01-28,AWS Lambda,Compute,0.34,0.06
+2025-01-28,Google BigQuery,Database,16.85,2.76
+2025-01-28,Google Cloud Storage,Compute,1.82,0.05
+2025-01-28,GCP Cloud Functions,Networking,5.76,0.54
+2025-01-28,Amazon S3,Serverless,0.65,0.07
+2025-01-29,Google Cloud Storage,Networking,0.17,0.03
+2025-01-29,Google BigQuery,Networking,1.5,0.2
+2025-01-29,Google Compute Engine,Compute,1.87,0.2
+2025-01-29,Amazon EC2,Storage,3.96,0.18
+2025-01-29,Google Cloud Storage,Compute,17.46,2.75
+2025-01-29,Google Compute Engine,Compute,14.03,2.53
+2025-01-30,Google Cloud Storage,Serverless,4.56,0.84
+2025-01-30,Google BigQuery,Storage,0.46,0.02
+2025-01-30,Google BigQuery,Database,0.23,0.02
+2025-01-30,Google Compute Engine,Database,2.46,0.15
+2025-01-30,Amazon S3,Networking,8.82,0.69
+2025-01-30,Amazon RDS,Networking,1.65,0.19
+2025-01-30,Google Compute Engine,Storage,0.76,0.12
+2025-01-30,GCP Cloud Functions,Serverless,0.39,0.08
+2025-01-30,Google Cloud Storage,Networking,7.4,0.35
+2025-01-30,Google Compute Engine,Database,0.03,0.0
+2025-01-30,Amazon EC2,Storage,6.14,0.91
+2025-01-31,Google BigQuery,Serverless,7.38,0.18
+2025-01-31,Google Cloud Storage,Compute,2.22,0.07
+2025-01-31,Google Compute Engine,Networking,9.94,1.28
+2025-01-31,Google BigQuery,Storage,2.01,0.04
+2025-01-31,GCP Cloud Functions,Serverless,1.86,0.13
+2025-02-01,Amazon RDS,Database,6.54,0.86
+2025-02-01,Amazon RDS,Storage,10.91,1.09
+2025-02-01,Google Cloud Storage,Networking,0.64,0.09
+2025-02-01,AWS Lambda,Networking,7.15,0.83
+2025-02-01,AWS Lambda,Database,7.37,0.77
+2025-02-01,Google Compute Engine,Storage,3.7,0.34
+2025-02-01,GCP Cloud Functions,Compute,0.13,0.0
+2025-02-01,Amazon EC2,Compute,0.16,0.02
+2025-02-01,Amazon RDS,Storage,1.89,0.2
+2025-02-01,AWS Lambda,Networking,11.91,0.68
+2025-02-01,Amazon S3,Serverless,2.64,0.41
+2025-02-01,AWS Lambda,Networking,1.3,0.03
+2025-02-02,Google Cloud Storage,Networking,1.71,0.07
+2025-02-02,Amazon EC2,Compute,13.27,2.17
+2025-02-02,Google Cloud Storage,Database,5.02,0.88
+2025-02-02,Amazon S3,Database,8.14,0.37
+2025-02-02,AWS Lambda,Storage,11.15,1.25
+2025-02-02,GCP Cloud Functions,Compute,8.24,1.49
+2025-02-02,Google Cloud Storage,Networking,1.91,0.06
+2025-02-02,Amazon RDS,Networking,1.29,0.12
+2025-02-02,Amazon S3,Database,8.52,1.48
+2025-02-02,Google Compute Engine,Storage,0.03,0.0
+2025-02-02,Google BigQuery,Storage,2.7,0.14
+2025-02-02,Amazon EC2,Networking,0.64,0.05
+2025-02-03,GCP Cloud Functions,Compute,14.32,1.02
+2025-02-03,Amazon S3,Database,3.66,0.53
+2025-02-03,Google Cloud Storage,Storage,2.26,0.44
+2025-02-03,Amazon EC2,Storage,16.41,0.95
+2025-02-03,Amazon S3,Compute,3.44,0.23
+2025-02-03,GCP Cloud Functions,Compute,1.68,0.03
+2025-02-03,Amazon RDS,Storage,4.7,0.5
+2025-02-03,GCP Cloud Functions,Networking,0.26,0.02
+2025-02-03,Amazon RDS,Database,11.94,0.66
+2025-02-03,AWS Lambda,Storage,0.78,0.08
+2025-02-04,Google Cloud Storage,Serverless,21.22,1.19
+2025-02-04,Google BigQuery,Serverless,5.58,0.86
+2025-02-04,GCP Cloud Functions,Compute,1.36,0.2
+2025-02-04,Google Compute Engine,Storage,2.29,0.3
+2025-02-04,Amazon S3,Database,5.02,0.56
+2025-02-04,Amazon EC2,Networking,0.47,0.08
+2025-02-04,Google Compute Engine,Networking,1.93,0.09
+2025-02-04,Google Compute Engine,Compute,0.21,0.03
+2025-02-05,Amazon EC2,Storage,5.66,0.07
+2025-02-05,Amazon S3,Compute,3.59,0.19
+2025-02-05,Google BigQuery,Compute,5.18,0.22
+2025-02-05,Google Compute Engine,Database,5.87,0.49
+2025-02-05,GCP Cloud Functions,Storage,13.8,0.5
+2025-02-05,Amazon RDS,Networking,2.09,0.07
+2025-02-06,Google Compute Engine,Serverless,12.93,2.28
+2025-02-06,AWS Lambda,Storage,1.49,0.2
+2025-02-06,Amazon S3,Compute,8.5,0.98
+2025-02-06,AWS Lambda,Database,3.77,0.21
+2025-02-06,AWS Lambda,Serverless,0.49,0.09
+2025-02-06,GCP Cloud Functions,Compute,11.53,1.5
+2025-02-06,Amazon S3,Compute,2.07,0.16
+2025-02-06,AWS Lambda,Database,6.47,1.17
+2025-02-06,Amazon S3,Storage,10.91,1.73
+2025-02-06,Google Compute Engine,Storage,5.14,0.13
+2025-02-06,GCP Cloud Functions,Storage,0.88,0.16
+2025-02-06,AWS Lambda,Storage,4.66,0.05
+2025-02-07,GCP Cloud Functions,Storage,0.53,0.07
+2025-02-07,Amazon S3,Serverless,0.03,0.0
+2025-02-07,Amazon S3,Compute,3.98,0.56
+2025-02-07,Amazon EC2,Compute,5.28,0.28
+2025-02-07,Google Compute Engine,Storage,6.23,0.34
+2025-02-07,AWS Lambda,Serverless,1.97,0.3
+2025-02-07,GCP Cloud Functions,Storage,5.24,0.9
+2025-02-07,AWS Lambda,Compute,5.36,0.63
+2025-02-07,Amazon RDS,Serverless,0.49,0.04
+2025-02-08,AWS Lambda,Database,1.54,0.09
+2025-02-08,GCP Cloud Functions,Database,18.06,1.53
+2025-02-08,AWS Lambda,Networking,11.13,1.45
+2025-02-08,GCP Cloud Functions,Storage,7.92,0.84
+2025-02-08,Google Compute Engine,Database,4.3,0.45
+2025-02-09,Amazon EC2,Networking,1.09,0.16
+2025-02-09,Amazon EC2,Database,1.65,0.02
+2025-02-09,Amazon EC2,Compute,5.18,0.23
+2025-02-09,GCP Cloud Functions,Networking,14.11,2.7
+2025-02-09,Amazon RDS,Compute,12.32,0.99
+2025-02-09,Amazon S3,Storage,0.08,0.01
+2025-02-09,Amazon S3,Networking,2.79,0.54
+2025-02-09,Amazon S3,Storage,16.57,2.85
+2025-02-10,Amazon S3,Networking,1.74,0.14
+2025-02-10,Google Compute Engine,Networking,9.52,0.67
+2025-02-10,Amazon EC2,Networking,0.93,0.11
+2025-02-10,Amazon S3,Serverless,13.76,1.96
+2025-02-10,Google BigQuery,Database,4.22,0.12
+2025-02-10,Google Compute Engine,Database,4.77,0.94
+2025-02-10,Google Compute Engine,Database,0.75,0.08
+2025-02-10,AWS Lambda,Storage,10.49,1.58
+2025-02-10,Google Cloud Storage,Serverless,5.97,0.86
+2025-02-10,Google BigQuery,Compute,2.23,0.15
+2025-02-10,Amazon EC2,Serverless,8.29,1.36
+2025-02-11,Amazon S3,Networking,10.09,1.85
+2025-02-11,Google Compute Engine,Networking,3.58,0.38
+2025-02-11,Google Cloud Storage,Storage,8.0,1.07
+2025-02-11,Google BigQuery,Compute,6.05,0.98
+2025-02-11,Google Compute Engine,Database,11.04,0.82
+2025-02-11,Google Cloud Storage,Storage,2.35,0.07
+2025-02-12,Google Cloud Storage,Networking,4.32,0.07
+2025-02-12,Amazon EC2,Networking,3.13,0.35
+2025-02-12,Google Cloud Storage,Compute,1.69,0.21
+2025-02-12,Amazon RDS,Database,0.15,0.0
+2025-02-12,Amazon S3,Compute,8.65,0.68
+2025-02-12,Amazon RDS,Database,0.68,0.07
+2025-02-12,Google Cloud Storage,Networking,7.35,0.37
+2025-02-12,Google Compute Engine,Database,4.88,0.13
+2025-02-12,Google Compute Engine,Database,0.27,0.03
+2025-02-12,GCP Cloud Functions,Database,3.89,0.51
+2025-02-12,Amazon EC2,Compute,6.47,1.26
+2025-02-12,AWS Lambda,Database,3.63,0.26
+2025-02-13,Amazon EC2,Database,7.93,0.49
+2025-02-13,Amazon RDS,Database,2.89,0.07
+2025-02-13,Amazon RDS,Serverless,0.13,0.03
+2025-02-13,AWS Lambda,Networking,9.04,1.29
+2025-02-13,Amazon EC2,Compute,2.63,0.11
+2025-02-14,Amazon RDS,Networking,0.85,0.05
+2025-02-14,Amazon EC2,Database,3.98,0.58
+2025-02-14,Amazon RDS,Serverless,5.4,0.34
+2025-02-14,Amazon RDS,Compute,15.49,2.33
+2025-02-14,Google Cloud Storage,Database,4.04,0.51
+2025-02-14,Amazon EC2,Database,2.72,0.16
+2025-02-15,Google Compute Engine,Compute,2.2,0.34
+2025-02-15,Google BigQuery,Networking,0.07,0.0
+2025-02-15,AWS Lambda,Networking,0.24,0.0
+2025-02-15,Amazon RDS,Storage,9.67,1.39
+2025-02-15,Amazon RDS,Storage,3.21,0.09
+2025-02-15,AWS Lambda,Compute,3.38,0.34
+2025-02-15,Amazon RDS,Database,0.95,0.09
+2025-02-15,AWS Lambda,Storage,2.54,0.32
+2025-02-16,Amazon RDS,Compute,5.04,0.09
+2025-02-16,AWS Lambda,Compute,2.35,0.3
+2025-02-16,GCP Cloud Functions,Storage,3.5,0.6
+2025-02-16,Google Compute Engine,Serverless,5.37,0.22
+2025-02-16,Google BigQuery,Database,0.37,0.05
+2025-02-16,Google Compute Engine,Storage,0.13,0.02
+2025-02-16,Amazon EC2,Storage,14.09,1.68
+2025-02-16,AWS Lambda,Database,2.46,0.33
+2025-02-16,Google Cloud Storage,Compute,3.06,0.35
+2025-02-17,Google BigQuery,Networking,14.19,1.18
+2025-02-17,AWS Lambda,Networking,16.25,2.96
+2025-02-17,Google BigQuery,Compute,1.09,0.03
+2025-02-17,Amazon S3,Database,0.53,0.01
+2025-02-17,Amazon RDS,Networking,0.5,0.07
+2025-02-17,Google Cloud Storage,Compute,0.37,0.03
+2025-02-17,Amazon S3,Networking,9.32,0.13
+2025-02-17,AWS Lambda,Database,8.42,0.54
+2025-02-17,Google BigQuery,Serverless,0.63,0.09
+2025-02-18,AWS Lambda,Networking,4.96,0.88
+2025-02-18,Google Compute Engine,Database,6.64,1.08
+2025-02-18,Amazon EC2,Serverless,1.66,0.07
+2025-02-18,Amazon EC2,Networking,6.94,1.13
+2025-02-18,Google Compute Engine,Database,23.29,2.06
+2025-02-18,AWS Lambda,Compute,2.33,0.37
+2025-02-19,Google BigQuery,Compute,2.08,0.39
+2025-02-19,Google Cloud Storage,Networking,9.77,0.89
+2025-02-19,Google Cloud Storage,Serverless,6.95,1.07
+2025-02-19,Google BigQuery,Serverless,0.54,0.1
+2025-02-19,Google Cloud Storage,Networking,3.52,0.59
+2025-02-19,Amazon RDS,Storage,1.93,0.35
+2025-02-19,AWS Lambda,Serverless,2.46,0.03
+2025-02-19,Amazon RDS,Networking,11.79,0.32
+2025-02-19,Google Cloud Storage,Serverless,1.92,0.37
+2025-02-19,Amazon EC2,Database,15.04,1.79
+2025-02-20,Google Compute Engine,Serverless,5.0,0.48
+2025-02-20,Google BigQuery,Serverless,1.74,0.13
+2025-02-20,GCP Cloud Functions,Serverless,5.58,0.85
+2025-02-20,Google Compute Engine,Networking,7.84,1.25
+2025-02-20,GCP Cloud Functions,Storage,0.48,0.05
+2025-02-20,Amazon S3,Database,0.3,0.03
+2025-02-20,Google BigQuery,Compute,2.91,0.52
+2025-02-20,Google Compute Engine,Database,2.16,0.07
+2025-02-20,Google Compute Engine,Storage,0.77,0.12
+2025-02-21,Amazon EC2,Compute,4.81,0.14
+2025-02-21,Google Compute Engine,Serverless,0.44,0.06
+2025-02-21,Amazon S3,Serverless,0.38,0.06
+2025-02-21,AWS Lambda,Networking,6.12,0.16
+2025-02-21,Google Compute Engine,Serverless,0.44,0.09
+2025-02-21,GCP Cloud Functions,Serverless,2.34,0.19
+2025-02-21,Google Compute Engine,Storage,8.38,1.59
+2025-02-22,Amazon S3,Serverless,21.34,3.27
+2025-02-22,Google Compute Engine,Storage,2.36,0.06
+2025-02-22,GCP Cloud Functions,Compute,7.51,0.87
+2025-02-22,Google Compute Engine,Compute,2.76,0.5
+2025-02-22,GCP Cloud Functions,Storage,0.59,0.06
+2025-02-23,Google BigQuery,Serverless,0.06,0.01
+2025-02-23,AWS Lambda,Networking,0.29,0.01
+2025-02-23,GCP Cloud Functions,Storage,0.63,0.08
+2025-02-23,GCP Cloud Functions,Serverless,6.85,0.83
+2025-02-23,Google Cloud Storage,Storage,16.37,1.33
+2025-02-23,Google Cloud Storage,Networking,1.68,0.29
+2025-02-23,GCP Cloud Functions,Storage,1.27,0.25
+2025-02-23,Google Cloud Storage,Serverless,0.06,0.01
+2025-02-23,Amazon S3,Database,0.22,0.04
+2025-02-23,Google Compute Engine,Database,3.75,0.74
+2025-02-23,Google BigQuery,Database,0.38,0.04
+2025-02-23,Amazon S3,Storage,17.42,1.91
+2025-02-24,Google Compute Engine,Serverless,4.96,0.71
+2025-02-24,Amazon RDS,Storage,3.03,0.39
+2025-02-24,Amazon S3,Serverless,4.39,0.8
+2025-02-24,AWS Lambda,Database,0.23,0.01
+2025-02-24,GCP Cloud Functions,Serverless,15.02,2.69
+2025-02-24,Amazon EC2,Storage,3.04,0.39
+2025-02-24,AWS Lambda,Serverless,1.62,0.07
+2025-02-25,AWS Lambda,Serverless,3.12,0.24
+2025-02-25,Amazon EC2,Database,4.38,0.11
+2025-02-25,Google Cloud Storage,Serverless,18.32,3.62
+2025-02-25,AWS Lambda,Networking,5.99,0.67
+2025-02-25,Google Compute Engine,Serverless,1.85,0.3
+2025-02-26,Google Cloud Storage,Serverless,5.77,0.24
+2025-02-26,GCP Cloud Functions,Compute,12.09,2.01
+2025-02-26,AWS Lambda,Database,14.96,2.21
+2025-02-26,AWS Lambda,Storage,4.75,0.42
+2025-02-26,GCP Cloud Functions,Storage,13.5,2.36
+2025-02-26,Amazon EC2,Serverless,0.23,0.0
+2025-02-26,Amazon EC2,Compute,2.36,0.39
+2025-02-26,AWS Lambda,Storage,21.82,0.84
+2025-02-27,Amazon RDS,Compute,4.51,0.37
+2025-02-27,Google Cloud Storage,Serverless,17.52,2.98
+2025-02-27,Google BigQuery,Storage,9.11,0.9
+2025-02-27,GCP Cloud Functions,Database,2.68,0.17
+2025-02-27,Google BigQuery,Serverless,0.29,0.05
+2025-02-27,Google Cloud Storage,Serverless,8.38,1.68
+2025-02-27,Google Cloud Storage,Compute,28.47,3.29
+2025-02-27,GCP Cloud Functions,Compute,7.33,1.39
+2025-02-27,Amazon EC2,Database,9.47,0.54
+2025-02-27,Google Compute Engine,Compute,2.99,0.1
+2025-02-27,Amazon EC2,Compute,15.4,1.93
+2025-02-27,Google Compute Engine,Storage,1.3,0.18
+2025-02-28,Amazon RDS,Storage,4.81,0.38
+2025-02-28,Amazon RDS,Serverless,0.6,0.08
+2025-02-28,Amazon S3,Networking,3.67,0.58
+2025-02-28,Google Compute Engine,Serverless,3.67,0.63
+2025-02-28,Google Cloud Storage,Database,4.01,0.47
+2025-03-01,Amazon S3,Storage,10.46,0.91
+2025-03-01,Google Cloud Storage,Compute,0.72,0.01
+2025-03-01,Amazon EC2,Database,7.04,0.9
+2025-03-01,AWS Lambda,Serverless,6.09,0.31
+2025-03-01,Google Compute Engine,Compute,0.73,0.01
+2025-03-01,Google Compute Engine,Compute,2.16,0.26
+2025-03-01,Google Cloud Storage,Networking,2.49,0.23
+2025-03-02,Amazon EC2,Database,11.73,0.89
+2025-03-02,AWS Lambda,Database,3.61,0.57
+2025-03-02,Amazon S3,Networking,2.53,0.32
+2025-03-02,Google BigQuery,Compute,9.92,1.89
+2025-03-02,AWS Lambda,Serverless,0.8,0.15
+2025-03-02,Amazon S3,Serverless,3.39,0.2
+2025-03-03,GCP Cloud Functions,Storage,3.07,0.6
+2025-03-03,AWS Lambda,Storage,3.39,0.25
+2025-03-03,Google Cloud Storage,Networking,5.02,0.28
+2025-03-03,GCP Cloud Functions,Serverless,0.39,0.01
+2025-03-03,AWS Lambda,Networking,0.69,0.03
+2025-03-03,Google Cloud Storage,Database,0.75,0.1
+2025-03-03,Google Compute Engine,Compute,1.0,0.08
+2025-03-03,Google Cloud Storage,Serverless,11.35,1.14
+2025-03-03,Google Compute Engine,Serverless,5.51,0.24
+2025-03-03,AWS Lambda,Database,1.07,0.02
+2025-03-04,GCP Cloud Functions,Database,0.93,0.06
+2025-03-04,Amazon RDS,Serverless,0.97,0.03
+2025-03-04,Google Compute Engine,Database,0.64,0.06
+2025-03-04,Google Cloud Storage,Database,1.16,0.09
+2025-03-04,Google Cloud Storage,Networking,3.5,0.49
+2025-03-05,Amazon EC2,Networking,0.2,0.03
+2025-03-05,Google Compute Engine,Compute,4.94,0.13
+2025-03-05,Google Compute Engine,Serverless,10.34,1.91
+2025-03-05,GCP Cloud Functions,Networking,0.32,0.02
+2025-03-05,Google Compute Engine,Serverless,8.2,1.25
+2025-03-05,GCP Cloud Functions,Serverless,1.02,0.05
+2025-03-05,Amazon EC2,Compute,2.31,0.24
+2025-03-05,Google Cloud Storage,Storage,4.82,0.39
+2025-03-05,AWS Lambda,Storage,3.1,0.47
+2025-03-06,Google BigQuery,Serverless,0.19,0.01
+2025-03-06,Google BigQuery,Serverless,6.25,1.13
+2025-03-06,Google BigQuery,Database,3.58,0.4
+2025-03-06,GCP Cloud Functions,Database,0.57,0.05
+2025-03-06,Google Cloud Storage,Database,3.8,0.21
+2025-03-06,Google Compute Engine,Compute,1.57,0.13
+2025-03-06,Google Compute Engine,Database,0.1,0.01
+2025-03-06,Amazon S3,Networking,1.19,0.09
+2025-03-06,Amazon RDS,Storage,0.64,0.11
+2025-03-07,GCP Cloud Functions,Database,4.5,0.63
+2025-03-07,Google Cloud Storage,Compute,7.78,0.81
+2025-03-07,Google Compute Engine,Database,0.45,0.05
+2025-03-07,Google Compute Engine,Database,4.42,0.67
+2025-03-07,Amazon RDS,Database,2.83,0.1
+2025-03-07,Amazon EC2,Networking,1.67,0.13
+2025-03-07,Amazon RDS,Database,5.19,0.61
+2025-03-07,Amazon EC2,Compute,2.2,0.43
+2025-03-08,Amazon RDS,Serverless,4.65,0.26
+2025-03-08,Amazon S3,Compute,0.54,0.02
+2025-03-08,Google Cloud Storage,Serverless,1.41,0.06
+2025-03-08,GCP Cloud Functions,Serverless,1.03,0.07
+2025-03-08,Google BigQuery,Storage,0.95,0.17
+2025-03-08,Amazon EC2,Database,0.42,0.05
+2025-03-08,GCP Cloud Functions,Compute,2.64,0.52
+2025-03-08,Amazon S3,Serverless,0.59,0.05
+2025-03-08,GCP Cloud Functions,Compute,17.45,3.04
+2025-03-09,Amazon RDS,Storage,8.49,0.5
+2025-03-09,Google Cloud Storage,Compute,0.94,0.13
+2025-03-09,Google Compute Engine,Compute,13.25,1.53
+2025-03-09,AWS Lambda,Networking,4.24,0.27
+2025-03-09,Google Compute Engine,Networking,7.34,0.33
+2025-03-10,GCP Cloud Functions,Serverless,1.96,0.18
+2025-03-10,Google Cloud Storage,Networking,3.54,0.2
+2025-03-10,AWS Lambda,Database,0.61,0.08
+2025-03-10,Amazon EC2,Networking,1.7,0.2
+2025-03-10,Amazon S3,Storage,0.84,0.09
+2025-03-10,Google Compute Engine,Database,3.8,0.08
+2025-03-10,Amazon S3,Storage,2.05,0.07
+2025-03-10,Google Compute Engine,Storage,0.33,0.07
+2025-03-10,Amazon S3,Storage,1.95,0.32
+2025-03-10,Amazon EC2,Serverless,1.47,0.21
+2025-03-10,GCP Cloud Functions,Networking,7.14,0.88
+2025-03-11,Google Cloud Storage,Compute,3.19,0.28
+2025-03-11,Google Compute Engine,Database,2.15,0.4
+2025-03-11,Google Cloud Storage,Serverless,8.88,1.72
+2025-03-11,Amazon S3,Storage,0.66,0.1
+2025-03-11,Google Cloud Storage,Networking,13.93,0.62
+2025-03-11,Google Compute Engine,Serverless,0.34,0.05
+2025-03-11,Amazon S3,Networking,4.27,0.73
+2025-03-11,Google Compute Engine,Storage,0.75,0.12
+2025-03-11,Google Cloud Storage,Storage,1.13,0.05
+2025-03-11,Amazon S3,Compute,0.9,0.15
+2025-03-11,Amazon RDS,Database,5.47,0.6
+2025-03-11,Google Cloud Storage,Serverless,2.22,0.39
+2025-03-12,GCP Cloud Functions,Database,2.49,0.41
+2025-03-12,AWS Lambda,Database,2.89,0.24
+2025-03-12,GCP Cloud Functions,Serverless,3.11,0.21
+2025-03-12,Amazon S3,Networking,6.88,0.73
+2025-03-12,Amazon EC2,Serverless,1.32,0.24
+2025-03-12,Google BigQuery,Networking,2.42,0.27
+2025-03-13,Amazon EC2,Compute,11.85,1.52
+2025-03-13,Google Compute Engine,Networking,0.62,0.12
+2025-03-13,Amazon EC2,Database,4.94,0.36
+2025-03-13,Amazon EC2,Storage,0.75,0.12
+2025-03-13,GCP Cloud Functions,Networking,4.84,0.54
+2025-03-13,GCP Cloud Functions,Database,11.22,1.79
+2025-03-13,Amazon RDS,Networking,0.82,0.06
+2025-03-13,AWS Lambda,Serverless,1.43,0.22
+2025-03-13,Amazon S3,Serverless,0.17,0.02
+2025-03-14,AWS Lambda,Database,7.19,1.27
+2025-03-14,Google BigQuery,Compute,2.09,0.35
+2025-03-14,Amazon RDS,Database,0.59,0.1
+2025-03-14,AWS Lambda,Serverless,0.68,0.06
+2025-03-14,Google Cloud Storage,Serverless,7.98,0.31
+2025-03-14,Amazon EC2,Serverless,1.3,0.19
+2025-03-14,Amazon S3,Database,6.37,0.84
+2025-03-14,Google Cloud Storage,Database,5.92,0.67
+2025-03-14,Amazon S3,Serverless,1.45,0.11
+2025-03-14,Amazon EC2,Networking,1.0,0.18
+2025-03-15,AWS Lambda,Compute,4.38,0.38
+2025-03-15,Google Compute Engine,Networking,3.1,0.59
+2025-03-15,Google BigQuery,Networking,0.83,0.1
+2025-03-15,GCP Cloud Functions,Serverless,3.52,0.44
+2025-03-15,Amazon EC2,Storage,0.09,0.02
+2025-03-15,Google Cloud Storage,Networking,13.45,1.58
+2025-03-15,Amazon RDS,Database,5.96,1.1
+2025-03-15,GCP Cloud Functions,Serverless,6.14,0.24
+2025-03-15,Amazon S3,Compute,4.29,0.54
+2025-03-15,Google Compute Engine,Storage,2.76,0.41
+2025-03-15,Google Cloud Storage,Networking,13.62,2.53
+2025-03-15,Amazon EC2,Networking,3.0,0.09
+2025-03-16,Amazon S3,Storage,20.95,3.55
+2025-03-16,Amazon S3,Serverless,0.67,0.12
+2025-03-16,Amazon S3,Storage,10.2,1.11
+2025-03-16,GCP Cloud Functions,Database,4.47,0.38
+2025-03-16,Google Cloud Storage,Serverless,0.28,0.02
+2025-03-16,GCP Cloud Functions,Serverless,8.12,0.09
+2025-03-16,Google Compute Engine,Serverless,2.03,0.17
+2025-03-16,Amazon RDS,Serverless,3.85,0.71
+2025-03-16,Google Compute Engine,Networking,2.13,0.16
+2025-03-16,Amazon RDS,Compute,6.69,0.64
+2025-03-16,Google Cloud Storage,Serverless,1.27,0.12
+2025-03-17,Google Cloud Storage,Compute,0.76,0.03
+2025-03-17,Google Cloud Storage,Database,3.45,0.31
+2025-03-17,GCP Cloud Functions,Storage,12.32,0.97
+2025-03-17,GCP Cloud Functions,Networking,4.34,0.56
+2025-03-17,GCP Cloud Functions,Database,0.07,0.01
+2025-03-17,Google BigQuery,Networking,0.98,0.19
+2025-03-17,AWS Lambda,Serverless,0.8,0.07
+2025-03-17,Google BigQuery,Storage,0.45,0.09
+2025-03-17,Google Compute Engine,Networking,3.49,0.43
+2025-03-17,AWS Lambda,Storage,0.35,0.05
+2025-03-18,Amazon EC2,Database,1.18,0.21
+2025-03-18,GCP Cloud Functions,Serverless,1.15,0.05
+2025-03-18,AWS Lambda,Storage,0.19,0.02
+2025-03-18,GCP Cloud Functions,Compute,4.16,0.09
+2025-03-18,Amazon RDS,Networking,7.47,0.72
+2025-03-18,Google BigQuery,Compute,3.72,0.35
+2025-03-18,GCP Cloud Functions,Compute,2.56,0.3
+2025-03-18,GCP Cloud Functions,Compute,0.84,0.04
+2025-03-18,Amazon RDS,Serverless,9.89,1.88
+2025-03-18,Amazon RDS,Compute,2.34,0.14
+2025-03-18,GCP Cloud Functions,Database,5.16,0.45
+2025-03-19,AWS Lambda,Compute,0.13,0.01
+2025-03-19,Google BigQuery,Networking,6.29,0.85
+2025-03-19,AWS Lambda,Database,0.14,0.01
+2025-03-19,GCP Cloud Functions,Networking,1.31,0.18
+2025-03-19,Amazon EC2,Networking,0.1,0.0
+2025-03-19,Amazon S3,Storage,8.05,0.35
+2025-03-19,Google Cloud Storage,Storage,5.29,0.29
+2025-03-19,Amazon S3,Serverless,0.52,0.03
+2025-03-19,Amazon S3,Compute,6.41,1.11
+2025-03-19,GCP Cloud Functions,Storage,8.87,0.76
+2025-03-20,Amazon EC2,Compute,5.51,0.27
+2025-03-20,Google BigQuery,Compute,1.73,0.31
+2025-03-20,Google Cloud Storage,Database,0.07,0.0
+2025-03-20,Google BigQuery,Serverless,1.17,0.02
+2025-03-20,Amazon RDS,Storage,1.0,0.12
+2025-03-20,AWS Lambda,Networking,2.74,0.49
+2025-03-20,Amazon RDS,Storage,8.5,0.64
+2025-03-20,Amazon RDS,Compute,1.5,0.12
+2025-03-20,AWS Lambda,Networking,4.46,0.27
+2025-03-21,GCP Cloud Functions,Networking,4.89,0.43
+2025-03-21,Amazon RDS,Storage,4.02,0.37
+2025-03-21,GCP Cloud Functions,Database,1.74,0.33
+2025-03-21,GCP Cloud Functions,Database,7.21,0.26
+2025-03-21,Amazon EC2,Serverless,10.14,1.04
+2025-03-21,Google Cloud Storage,Networking,11.25,1.82
+2025-03-21,Amazon RDS,Compute,2.77,0.04
+2025-03-21,GCP Cloud Functions,Database,1.56,0.18
+2025-03-22,AWS Lambda,Database,5.02,0.3
+2025-03-22,GCP Cloud Functions,Database,0.75,0.13
+2025-03-22,Google Compute Engine,Serverless,20.8,2.29
+2025-03-22,GCP Cloud Functions,Compute,0.94,0.06
+2025-03-22,Google Compute Engine,Serverless,0.09,0.02
+2025-03-22,Google BigQuery,Networking,0.63,0.08
+2025-03-22,Google Cloud Storage,Database,1.6,0.18
+2025-03-22,Amazon EC2,Serverless,5.27,0.88
+2025-03-22,Google Cloud Storage,Compute,1.16,0.01
+2025-03-23,GCP Cloud Functions,Database,0.74,0.13
+2025-03-23,Google Compute Engine,Networking,10.35,1.28
+2025-03-23,Google BigQuery,Storage,4.59,0.63
+2025-03-23,Google Compute Engine,Networking,0.96,0.18
+2025-03-23,Google Cloud Storage,Storage,2.71,0.22
+2025-03-24,Amazon EC2,Database,3.66,0.07
+2025-03-24,GCP Cloud Functions,Compute,0.91,0.14
+2025-03-24,Google BigQuery,Storage,0.43,0.05
+2025-03-24,Amazon S3,Database,1.41,0.12
+2025-03-24,Google BigQuery,Serverless,1.7,0.13
+2025-03-24,Amazon RDS,Storage,6.35,0.42
+2025-03-25,Google BigQuery,Networking,4.18,0.42
+2025-03-25,Google Cloud Storage,Storage,5.45,1.02
+2025-03-25,Google Cloud Storage,Serverless,6.59,0.34
+2025-03-25,Google Cloud Storage,Database,0.16,0.01
+2025-03-25,Amazon S3,Serverless,4.52,0.09
+2025-03-25,Amazon S3,Storage,3.43,0.42
+2025-03-25,Google Compute Engine,Serverless,2.03,0.32
+2025-03-26,Amazon S3,Serverless,0.56,0.01
+2025-03-26,Amazon EC2,Database,6.51,0.68
+2025-03-26,Amazon S3,Serverless,5.83,0.54
+2025-03-26,Google BigQuery,Database,1.41,0.23
+2025-03-26,AWS Lambda,Database,8.03,1.14
+2025-03-26,Amazon S3,Storage,1.59,0.19
+2025-03-26,GCP Cloud Functions,Compute,2.24,0.06
+2025-03-26,Google BigQuery,Networking,12.46,0.45
+2025-03-26,Google Compute Engine,Compute,15.0,1.42
+2025-03-26,GCP Cloud Functions,Database,1.02,0.12
+2025-03-27,Amazon S3,Storage,10.32,1.54
+2025-03-27,Amazon EC2,Compute,8.21,1.11
+2025-03-27,Google Cloud Storage,Serverless,5.89,1.01
+2025-03-27,Amazon S3,Compute,1.44,0.15
+2025-03-27,Google Compute Engine,Networking,1.25,0.25
+2025-03-27,Amazon RDS,Serverless,14.42,0.25
+2025-03-27,GCP Cloud Functions,Database,6.11,1.14
+2025-03-27,AWS Lambda,Networking,1.0,0.12
+2025-03-27,Amazon RDS,Serverless,12.35,0.2
+2025-03-27,Amazon S3,Serverless,5.98,0.4
+2025-03-27,AWS Lambda,Database,12.91,2.51
+2025-03-28,Google BigQuery,Storage,14.44,1.45
+2025-03-28,GCP Cloud Functions,Serverless,9.9,1.69
+2025-03-28,Google Compute Engine,Database,1.92,0.32
+2025-03-28,Amazon S3,Database,0.19,0.02
+2025-03-28,Google BigQuery,Compute,1.31,0.04
+2025-03-29,Google Cloud Storage,Storage,0.4,0.06
+2025-03-29,Amazon S3,Serverless,2.08,0.31
+2025-03-29,Amazon S3,Storage,0.34,0.02
+2025-03-29,Amazon EC2,Compute,3.88,0.62
+2025-03-29,Google BigQuery,Storage,1.92,0.25
+2025-03-29,Amazon RDS,Networking,10.86,1.38
+2025-03-29,Google Compute Engine,Compute,1.33,0.02
+2025-03-29,Google Compute Engine,Networking,10.2,0.14
+2025-03-29,Google Compute Engine,Storage,10.39,1.15
+2025-03-29,Google BigQuery,Storage,13.99,2.26
+2025-03-29,Amazon EC2,Database,30.91,2.37
+2025-03-30,Amazon RDS,Networking,7.29,0.63
+2025-03-30,Google Cloud Storage,Storage,3.27,0.42
+2025-03-30,Amazon S3,Compute,10.34,2.04
+2025-03-30,Amazon RDS,Compute,7.31,0.65
+2025-03-30,Google BigQuery,Storage,2.74,0.41
+2025-03-30,Google BigQuery,Compute,1.36,0.04
+2025-03-30,Amazon RDS,Database,2.19,0.14
+2025-03-31,Amazon RDS,Serverless,1.76,0.1
+2025-03-31,Amazon S3,Compute,0.22,0.0
+2025-03-31,GCP Cloud Functions,Serverless,22.0,2.01
+2025-03-31,Google BigQuery,Networking,2.43,0.34
+2025-03-31,Amazon S3,Serverless,1.23,0.23
+2025-04-01,Amazon EC2,Networking,7.72,0.21
+2025-04-01,Google Cloud Storage,Serverless,2.7,0.48
+2025-04-01,Amazon EC2,Compute,14.48,1.43
+2025-04-01,GCP Cloud Functions,Serverless,4.75,0.2
+2025-04-01,AWS Lambda,Compute,23.65,1.28
+2025-04-01,GCP Cloud Functions,Serverless,14.3,1.91
+2025-04-01,Amazon S3,Compute,4.68,0.5
+2025-04-01,Google BigQuery,Networking,1.31,0.06
+2025-04-02,Amazon S3,Storage,1.25,0.06
+2025-04-02,Google Cloud Storage,Networking,7.56,0.58
+2025-04-02,Google BigQuery,Serverless,0.3,0.06
+2025-04-02,Google Cloud Storage,Serverless,10.76,2.0
+2025-04-02,AWS Lambda,Compute,26.4,1.14
+2025-04-02,Amazon S3,Networking,2.52,0.39
+2025-04-02,Google Compute Engine,Serverless,5.95,0.23
+2025-04-03,Google Compute Engine,Serverless,8.46,0.45
+2025-04-03,Google BigQuery,Serverless,1.27,0.14
+2025-04-03,AWS Lambda,Serverless,4.49,0.54
+2025-04-03,Amazon S3,Database,0.48,0.08
+2025-04-03,AWS Lambda,Database,1.54,0.05
+2025-04-03,Google Cloud Storage,Database,10.98,2.1
+2025-04-03,Amazon RDS,Serverless,9.91,1.62
+2025-04-03,Amazon S3,Compute,5.32,0.61
+2025-04-03,Amazon S3,Compute,0.46,0.04
+2025-04-03,AWS Lambda,Compute,2.33,0.14
+2025-04-03,Google BigQuery,Storage,6.43,0.67
+2025-04-03,Amazon EC2,Networking,0.42,0.02
+2025-04-04,Amazon S3,Serverless,5.75,0.14
+2025-04-04,Google BigQuery,Serverless,9.53,0.99
+2025-04-04,Amazon EC2,Database,3.28,0.4
+2025-04-04,Google Cloud Storage,Database,8.71,0.66
+2025-04-04,Amazon S3,Networking,5.67,0.67
+2025-04-04,Google Compute Engine,Storage,1.55,0.27
+2025-04-04,GCP Cloud Functions,Storage,7.98,1.08
+2025-04-04,Amazon S3,Database,9.51,1.66
+2025-04-04,Google BigQuery,Compute,6.16,1.04
+2025-04-04,Google Cloud Storage,Networking,5.98,0.83
+2025-04-05,AWS Lambda,Networking,4.82,0.74
+2025-04-05,Amazon EC2,Networking,0.86,0.15
+2025-04-05,Google Cloud Storage,Compute,10.27,0.16
+2025-04-05,Amazon RDS,Database,8.74,0.3
+2025-04-05,Google Cloud Storage,Database,2.04,0.31
+2025-04-05,Google BigQuery,Compute,0.88,0.15
+2025-04-05,Amazon RDS,Storage,8.92,0.95
+2025-04-05,AWS Lambda,Compute,0.03,0.0
+2025-04-06,Amazon EC2,Compute,4.8,0.94
+2025-04-06,Google Compute Engine,Serverless,5.0,0.3
+2025-04-06,AWS Lambda,Serverless,5.03,0.57
+2025-04-06,Google BigQuery,Storage,7.57,0.23
+2025-04-06,Google BigQuery,Database,7.16,0.81
+2025-04-06,Google BigQuery,Networking,16.48,1.24
+2025-04-06,Amazon S3,Compute,5.01,0.94
+2025-04-07,Amazon RDS,Networking,0.54,0.1
+2025-04-07,Amazon EC2,Compute,5.82,0.13
+2025-04-07,Google Cloud Storage,Serverless,1.79,0.26
+2025-04-07,AWS Lambda,Serverless,0.35,0.04
+2025-04-07,GCP Cloud Functions,Serverless,2.12,0.27
+2025-04-07,Google Cloud Storage,Storage,0.23,0.04
+2025-04-07,Amazon S3,Database,18.15,3.52
+2025-04-08,Amazon S3,Database,6.92,0.24
+2025-04-08,GCP Cloud Functions,Networking,7.1,0.1
+2025-04-08,Google Cloud Storage,Compute,0.11,0.01
+2025-04-08,Google Compute Engine,Serverless,3.35,0.52
+2025-04-08,Amazon EC2,Compute,5.75,0.54
+2025-04-08,Google Compute Engine,Database,1.6,0.32
+2025-04-08,Google Compute Engine,Storage,2.78,0.27
+2025-04-08,Google Cloud Storage,Database,0.89,0.14
+2025-04-08,Google BigQuery,Compute,5.92,0.31
+2025-04-08,Amazon EC2,Serverless,0.43,0.06
+2025-04-08,AWS Lambda,Storage,5.31,0.33
+2025-04-09,AWS Lambda,Networking,15.07,0.58
+2025-04-09,Google Compute Engine,Networking,2.83,0.54
+2025-04-09,Google BigQuery,Compute,2.72,0.36
+2025-04-09,AWS Lambda,Compute,2.53,0.16
+2025-04-09,AWS Lambda,Compute,20.67,1.81
+2025-04-09,GCP Cloud Functions,Compute,11.23,0.6
+2025-04-09,Google BigQuery,Networking,1.2,0.02
+2025-04-10,AWS Lambda,Serverless,5.27,0.42
+2025-04-10,Google Cloud Storage,Compute,9.99,1.0
+2025-04-10,AWS Lambda,Compute,17.24,0.78
+2025-04-10,Google BigQuery,Storage,10.15,1.6
+2025-04-10,GCP Cloud Functions,Database,7.37,1.26
+2025-04-10,Amazon S3,Serverless,7.16,0.92
+2025-04-10,Amazon S3,Storage,0.7,0.01
+2025-04-10,AWS Lambda,Networking,12.68,1.61
+2025-04-10,AWS Lambda,Networking,7.96,0.81
+2025-04-10,Amazon S3,Serverless,0.62,0.02
+2025-04-10,Google Cloud Storage,Database,5.78,0.53
+2025-04-11,Google BigQuery,Storage,1.12,0.12
+2025-04-11,Amazon S3,Networking,0.33,0.04
+2025-04-11,Amazon S3,Networking,1.57,0.25
+2025-04-11,Google Compute Engine,Database,1.86,0.18
+2025-04-11,Google BigQuery,Storage,0.06,0.0
+2025-04-11,Google Compute Engine,Compute,2.49,0.25
+2025-04-11,Amazon RDS,Database,4.58,0.3
+2025-04-11,Google Compute Engine,Storage,5.94,1.03
+2025-04-12,Amazon S3,Storage,7.57,0.13
+2025-04-12,GCP Cloud Functions,Serverless,3.27,0.1
+2025-04-12,GCP Cloud Functions,Networking,1.39,0.27
+2025-04-12,Google BigQuery,Database,0.77,0.08
+2025-04-12,Amazon RDS,Serverless,4.81,0.69
+2025-04-12,Amazon S3,Serverless,4.1,0.05
+2025-04-12,GCP Cloud Functions,Database,1.98,0.21
+2025-04-13,Amazon EC2,Database,0.46,0.04
+2025-04-13,Amazon S3,Database,0.17,0.0
+2025-04-13,GCP Cloud Functions,Serverless,2.53,0.09
+2025-04-13,Amazon EC2,Compute,4.19,0.59
+2025-04-13,Google BigQuery,Database,8.06,0.39
+2025-04-13,Amazon S3,Compute,0.92,0.03
+2025-04-13,AWS Lambda,Serverless,5.06,0.73
+2025-04-13,Amazon EC2,Serverless,0.16,0.03
+2025-04-13,Google Compute Engine,Database,0.27,0.03
+2025-04-14,Amazon RDS,Compute,6.17,1.08
+2025-04-14,GCP Cloud Functions,Compute,6.26,1.02
+2025-04-14,Google BigQuery,Compute,2.07,0.34
+2025-04-14,Amazon RDS,Compute,0.42,0.08
+2025-04-14,Google Compute Engine,Serverless,3.97,0.66
+2025-04-14,GCP Cloud Functions,Networking,3.01,0.4
+2025-04-14,Amazon RDS,Database,3.74,0.56
+2025-04-14,Google BigQuery,Database,0.43,0.01
+2025-04-14,AWS Lambda,Serverless,1.42,0.06
+2025-04-14,Google BigQuery,Networking,10.27,0.53
+2025-04-14,Amazon EC2,Database,18.62,1.38
+2025-04-14,Amazon S3,Database,1.01,0.16
+2025-04-15,AWS Lambda,Database,5.38,0.56
+2025-04-15,Google Cloud Storage,Networking,4.05,0.59
+2025-04-15,Amazon RDS,Database,1.3,0.26
+2025-04-15,Amazon S3,Networking,18.4,2.46
+2025-04-15,Amazon RDS,Database,1.11,0.15
+2025-04-15,Google Cloud Storage,Serverless,0.37,0.01
+2025-04-16,Amazon S3,Database,1.49,0.15
+2025-04-16,AWS Lambda,Database,10.14,1.5
+2025-04-16,Amazon RDS,Networking,6.79,0.62
+2025-04-16,Amazon S3,Serverless,2.12,0.17
+2025-04-16,Google BigQuery,Compute,21.97,0.39
+2025-04-16,Google BigQuery,Database,10.09,1.21
+2025-04-16,Amazon RDS,Storage,2.89,0.43
+2025-04-17,GCP Cloud Functions,Storage,3.33,0.59
+2025-04-17,Google Compute Engine,Storage,11.55,1.04
+2025-04-17,Amazon RDS,Compute,1.62,0.2
+2025-04-17,Google Cloud Storage,Compute,12.17,0.61
+2025-04-17,Amazon EC2,Database,4.88,0.63
+2025-04-17,Amazon RDS,Networking,6.6,0.23
+2025-04-17,AWS Lambda,Storage,6.29,1.15
+2025-04-17,Amazon RDS,Storage,0.99,0.05
+2025-04-17,Amazon RDS,Serverless,17.77,0.79
+2025-04-17,Amazon EC2,Serverless,9.63,1.0
+2025-04-18,Google Compute Engine,Serverless,1.42,0.25
+2025-04-18,Google Cloud Storage,Serverless,2.95,0.32
+2025-04-18,Google Compute Engine,Networking,2.23,0.27
+2025-04-18,Google Compute Engine,Database,0.89,0.08
+2025-04-18,GCP Cloud Functions,Storage,17.44,1.03
+2025-04-18,Google BigQuery,Networking,5.35,0.38
+2025-04-18,GCP Cloud Functions,Serverless,7.42,0.26
+2025-04-18,Google Cloud Storage,Serverless,17.5,1.68
+2025-04-18,AWS Lambda,Storage,1.35,0.03
+2025-04-18,Google Compute Engine,Networking,0.93,0.1
+2025-04-19,Google Cloud Storage,Compute,2.05,0.34
+2025-04-19,GCP Cloud Functions,Database,2.82,0.16
+2025-04-19,Amazon S3,Networking,4.8,0.69
+2025-04-19,Amazon S3,Database,0.91,0.04
+2025-04-19,Amazon S3,Storage,0.19,0.03
+2025-04-19,Google Cloud Storage,Serverless,5.45,0.55
+2025-04-19,Amazon RDS,Serverless,9.29,1.51
+2025-04-20,Google Compute Engine,Serverless,4.4,0.77
+2025-04-20,Google BigQuery,Compute,1.15,0.04
+2025-04-20,AWS Lambda,Compute,1.57,0.03
+2025-04-20,AWS Lambda,Networking,3.79,0.71
+2025-04-20,Google BigQuery,Storage,0.2,0.01
+2025-04-20,AWS Lambda,Compute,3.01,0.56
+2025-04-21,Google Compute Engine,Compute,1.9,0.2
+2025-04-21,Google BigQuery,Compute,0.21,0.01
+2025-04-21,Google BigQuery,Storage,21.57,4.17
+2025-04-21,Amazon RDS,Compute,0.02,0.0
+2025-04-21,Google Cloud Storage,Serverless,5.1,0.89
+2025-04-21,Amazon RDS,Serverless,3.03,0.33
+2025-04-21,GCP Cloud Functions,Networking,3.36,0.46
+2025-04-21,Amazon EC2,Compute,0.75,0.01
+2025-04-21,Amazon EC2,Database,1.84,0.26
+2025-04-21,Google Compute Engine,Storage,1.13,0.16
+2025-04-22,Amazon S3,Database,17.52,0.49
+2025-04-22,Google Compute Engine,Database,5.58,0.53
+2025-04-22,Amazon S3,Compute,10.13,0.44
+2025-04-22,Google Compute Engine,Serverless,5.9,1.0
+2025-04-22,GCP Cloud Functions,Compute,14.47,2.02
+2025-04-22,Amazon S3,Serverless,3.44,0.44
+2025-04-22,Amazon EC2,Networking,10.16,1.2
+2025-04-22,Google Compute Engine,Storage,0.15,0.03
+2025-04-22,Google Cloud Storage,Serverless,5.85,0.81
+2025-04-22,Amazon EC2,Networking,1.21,0.16
+2025-04-22,Google BigQuery,Storage,2.5,0.33
+2025-04-23,Amazon RDS,Compute,0.56,0.08
+2025-04-23,Google BigQuery,Compute,37.21,0.71
+2025-04-23,Amazon EC2,Serverless,18.9,1.65
+2025-04-23,GCP Cloud Functions,Compute,10.23,1.62
+2025-04-23,AWS Lambda,Database,4.19,0.63
+2025-04-23,Google Cloud Storage,Compute,10.54,0.91
+2025-04-23,Google BigQuery,Compute,1.98,0.27
+2025-04-23,Google BigQuery,Storage,8.25,1.28
+2025-04-23,Amazon S3,Networking,7.99,0.74
+2025-04-23,Google BigQuery,Storage,8.51,0.28
+2025-04-23,Amazon EC2,Database,3.93,0.04
+2025-04-24,Amazon RDS,Serverless,1.96,0.16
+2025-04-24,GCP Cloud Functions,Storage,2.52,0.36
+2025-04-24,Amazon RDS,Compute,2.46,0.23
+2025-04-24,GCP Cloud Functions,Compute,1.36,0.11
+2025-04-24,Google Cloud Storage,Storage,1.29,0.03
+2025-04-24,Amazon EC2,Storage,4.62,0.63
+2025-04-24,Amazon EC2,Database,4.83,0.47
+2025-04-24,Google Cloud Storage,Networking,2.39,0.42
+2025-04-24,AWS Lambda,Networking,3.66,0.37
+2025-04-24,GCP Cloud Functions,Database,0.13,0.01
+2025-04-25,Google Compute Engine,Database,2.39,0.21
+2025-04-25,Google BigQuery,Compute,4.34,0.48
+2025-04-25,Google BigQuery,Database,4.68,0.73
+2025-04-25,Amazon S3,Database,8.38,1.23
+2025-04-25,AWS Lambda,Serverless,15.56,0.21
+2025-04-26,AWS Lambda,Database,1.09,0.01
+2025-04-26,Amazon RDS,Serverless,5.21,0.94
+2025-04-26,GCP Cloud Functions,Database,1.4,0.26
+2025-04-26,Google Cloud Storage,Compute,0.31,0.06
+2025-04-26,AWS Lambda,Compute,2.17,0.06
+2025-04-26,AWS Lambda,Networking,3.33,0.2
+2025-04-26,Amazon RDS,Networking,1.68,0.11
+2025-04-26,Google Cloud Storage,Database,8.12,0.91
+2025-04-26,Amazon S3,Compute,1.86,0.23
+2025-04-26,Google BigQuery,Database,6.3,0.39
+2025-04-26,Google Cloud Storage,Serverless,2.67,0.09
+2025-04-26,AWS Lambda,Storage,1.0,0.14
+2025-04-27,Google BigQuery,Serverless,1.0,0.11
+2025-04-27,Amazon EC2,Database,6.17,0.19
+2025-04-27,AWS Lambda,Database,4.19,0.25
+2025-04-27,Amazon EC2,Compute,16.47,1.68
+2025-04-27,AWS Lambda,Database,8.2,0.94
+2025-04-27,Amazon RDS,Compute,0.22,0.03
+2025-04-27,Amazon RDS,Networking,15.12,1.88
+2025-04-27,GCP Cloud Functions,Compute,8.55,1.52
+2025-04-27,Amazon RDS,Compute,1.29,0.06
+2025-04-27,Google Compute Engine,Database,4.72,0.42
+2025-04-27,Google BigQuery,Serverless,9.16,1.66
+2025-04-27,Amazon EC2,Networking,2.18,0.12
+2025-04-28,GCP Cloud Functions,Database,7.58,0.47
+2025-04-28,Google BigQuery,Serverless,8.65,0.78
+2025-04-28,Amazon S3,Networking,5.51,0.16
+2025-04-28,Amazon RDS,Networking,4.89,0.47
+2025-04-28,Google BigQuery,Serverless,4.42,0.19
+2025-04-28,Google BigQuery,Database,6.68,1.16
+2025-04-28,Google Compute Engine,Compute,1.22,0.03
+2025-04-29,Amazon RDS,Serverless,0.12,0.02
+2025-04-29,AWS Lambda,Networking,4.67,0.53
+2025-04-29,Amazon S3,Database,1.32,0.11
+2025-04-29,Google Cloud Storage,Serverless,4.51,0.47
+2025-04-29,Google Compute Engine,Networking,22.03,0.79
+2025-04-30,GCP Cloud Functions,Storage,5.94,0.52
+2025-04-30,Amazon S3,Storage,2.79,0.41
+2025-04-30,Amazon S3,Serverless,5.9,1.17
+2025-04-30,Amazon RDS,Serverless,0.69,0.02
+2025-04-30,Amazon S3,Database,6.44,0.77
+2025-04-30,Google BigQuery,Compute,1.6,0.04
+2025-04-30,Google Cloud Storage,Database,0.45,0.08
+2025-04-30,Amazon RDS,Storage,1.07,0.08
+2025-04-30,Google BigQuery,Networking,1.29,0.1
+2025-05-01,Amazon S3,Storage,0.36,0.04
+2025-05-01,Amazon RDS,Storage,0.35,0.06
+2025-05-01,GCP Cloud Functions,Compute,1.33,0.15
+2025-05-01,Google BigQuery,Networking,10.6,1.42
+2025-05-01,Google BigQuery,Serverless,3.81,0.27
+2025-05-01,Amazon RDS,Networking,2.02,0.28
+2025-05-01,Amazon S3,Compute,25.7,3.49
+2025-05-01,Google Cloud Storage,Serverless,4.08,0.61
+2025-05-02,AWS Lambda,Serverless,3.13,0.07
+2025-05-02,Amazon S3,Storage,4.13,0.79
+2025-05-02,Google BigQuery,Compute,0.96,0.14
+2025-05-02,GCP Cloud Functions,Serverless,1.12,0.13
+2025-05-02,Google BigQuery,Storage,0.51,0.05
+2025-05-02,Amazon RDS,Storage,7.06,0.54
+2025-05-02,AWS Lambda,Networking,5.47,0.88
+2025-05-02,Amazon EC2,Compute,13.1,0.72
+2025-05-02,Amazon RDS,Database,2.55,0.1
+2025-05-02,Amazon RDS,Storage,24.45,4.55
+2025-05-02,Google BigQuery,Storage,3.88,0.66
+2025-05-02,Google BigQuery,Networking,3.68,0.47
+2025-05-03,Amazon S3,Database,0.47,0.07
+2025-05-03,Google Compute Engine,Networking,0.68,0.11
+2025-05-03,Google Cloud Storage,Storage,7.62,1.1
+2025-05-03,Google Cloud Storage,Networking,0.18,0.01
+2025-05-03,Amazon S3,Networking,1.53,0.12
+2025-05-03,Amazon RDS,Networking,0.46,0.09
+2025-05-03,Amazon RDS,Storage,4.03,0.27
+2025-05-03,Google BigQuery,Networking,2.53,0.24
+2025-05-03,Amazon EC2,Compute,4.59,0.5
+2025-05-04,Amazon EC2,Networking,12.59,1.31
+2025-05-04,Google Cloud Storage,Storage,24.24,4.16
+2025-05-04,AWS Lambda,Networking,1.17,0.22
+2025-05-04,Amazon EC2,Serverless,0.62,0.1
+2025-05-04,Google Cloud Storage,Database,2.4,0.42
+2025-05-04,GCP Cloud Functions,Storage,10.13,1.65
+2025-05-05,Google Cloud Storage,Serverless,7.8,0.53
+2025-05-05,Amazon S3,Compute,0.42,0.04
+2025-05-05,Amazon RDS,Serverless,0.95,0.13
+2025-05-05,AWS Lambda,Serverless,2.12,0.41
+2025-05-05,GCP Cloud Functions,Storage,5.12,0.85
+2025-05-05,Google BigQuery,Networking,0.71,0.12
+2025-05-05,Amazon RDS,Database,12.8,1.31
+2025-05-05,Google BigQuery,Database,4.66,0.72
+2025-05-05,AWS Lambda,Storage,0.96,0.1
+2025-05-05,Google BigQuery,Networking,2.54,0.1
+2025-05-05,Amazon S3,Database,2.29,0.05
+2025-05-06,GCP Cloud Functions,Compute,0.13,0.0
+2025-05-06,Google Cloud Storage,Serverless,16.5,1.89
+2025-05-06,Google Compute Engine,Storage,16.88,1.56
+2025-05-06,Amazon S3,Compute,1.87,0.2
+2025-05-06,Google Cloud Storage,Serverless,2.89,0.09
+2025-05-06,AWS Lambda,Storage,5.12,0.26
+2025-05-06,Amazon RDS,Database,4.83,0.64
+2025-05-06,Google BigQuery,Storage,0.82,0.02
+2025-05-07,GCP Cloud Functions,Networking,7.59,0.74
+2025-05-07,GCP Cloud Functions,Serverless,0.3,0.06
+2025-05-07,Google Cloud Storage,Serverless,0.3,0.04
+2025-05-07,Amazon EC2,Compute,20.58,1.14
+2025-05-07,AWS Lambda,Networking,0.77,0.03
+2025-05-07,GCP Cloud Functions,Storage,1.81,0.05
+2025-05-07,Google Compute Engine,Networking,5.89,0.13
+2025-05-08,Amazon EC2,Compute,3.56,0.71
+2025-05-08,Google Cloud Storage,Serverless,8.41,1.07
+2025-05-08,GCP Cloud Functions,Database,1.83,0.24
+2025-05-08,Amazon EC2,Compute,3.74,0.34
+2025-05-08,AWS Lambda,Storage,0.7,0.12
+2025-05-08,Google Cloud Storage,Database,2.99,0.14
+2025-05-08,AWS Lambda,Database,2.29,0.2
+2025-05-08,Amazon EC2,Serverless,8.79,1.31
+2025-05-08,Amazon EC2,Networking,7.33,0.09
+2025-05-08,Google Compute Engine,Database,2.69,0.27
+2025-05-09,Amazon S3,Serverless,0.1,0.01
+2025-05-09,GCP Cloud Functions,Networking,7.14,0.26
+2025-05-09,Google Cloud Storage,Networking,3.83,0.19
+2025-05-09,Amazon S3,Storage,0.06,0.0
+2025-05-09,Amazon S3,Serverless,18.62,3.02
+2025-05-09,Google BigQuery,Database,16.04,1.65
+2025-05-09,Google BigQuery,Storage,0.58,0.07
+2025-05-09,Google Compute Engine,Networking,3.03,0.52
+2025-05-09,AWS Lambda,Networking,0.52,0.05
+2025-05-10,Amazon EC2,Compute,0.81,0.06
+2025-05-10,Amazon RDS,Database,6.68,0.67
+2025-05-10,GCP Cloud Functions,Networking,2.36,0.2
+2025-05-10,GCP Cloud Functions,Storage,3.08,0.49
+2025-05-10,Amazon RDS,Database,11.13,2.13
+2025-05-11,Amazon RDS,Serverless,7.73,0.54
+2025-05-11,Google Cloud Storage,Networking,5.83,0.54
+2025-05-11,Google BigQuery,Networking,1.47,0.25
+2025-05-11,GCP Cloud Functions,Networking,0.2,0.04
+2025-05-11,Google Cloud Storage,Serverless,3.09,0.41
+2025-05-11,Amazon EC2,Database,5.38,0.97
+2025-05-11,Google BigQuery,Compute,5.06,0.64
+2025-05-11,AWS Lambda,Networking,0.34,0.04
+2025-05-11,Google Cloud Storage,Compute,0.81,0.12
+2025-05-11,GCP Cloud Functions,Database,3.59,0.5
+2025-05-12,Amazon EC2,Networking,0.21,0.01
+2025-05-12,GCP Cloud Functions,Storage,6.3,0.15
+2025-05-12,AWS Lambda,Storage,0.37,0.0
+2025-05-12,Google Compute Engine,Compute,15.68,2.35
+2025-05-12,Amazon S3,Storage,2.18,0.14
+2025-05-12,Amazon EC2,Serverless,2.15,0.34
+2025-05-12,Google BigQuery,Serverless,5.41,0.24
+2025-05-12,Amazon RDS,Serverless,0.96,0.03
+2025-05-13,AWS Lambda,Networking,5.4,0.84
+2025-05-13,GCP Cloud Functions,Compute,1.54,0.02
+2025-05-13,Amazon RDS,Networking,0.43,0.08
+2025-05-13,Google Compute Engine,Networking,1.75,0.27
+2025-05-13,Google BigQuery,Serverless,4.9,0.4
+2025-05-13,AWS Lambda,Database,1.15,0.04
+2025-05-13,Amazon RDS,Serverless,4.77,0.75
+2025-05-13,Google BigQuery,Networking,5.16,0.57
+2025-05-14,Google Cloud Storage,Networking,0.21,0.04
+2025-05-14,GCP Cloud Functions,Storage,8.02,0.53
+2025-05-14,Google Compute Engine,Database,19.55,2.43
+2025-05-14,Google Cloud Storage,Storage,4.37,0.66
+2025-05-14,Google Cloud Storage,Database,8.35,1.13
+2025-05-14,Google Compute Engine,Serverless,0.69,0.05
+2025-05-14,Google BigQuery,Serverless,13.16,0.69
+2025-05-14,Google BigQuery,Networking,2.33,0.21
+2025-05-14,Google Cloud Storage,Database,2.89,0.37
+2025-05-14,Amazon S3,Networking,14.33,0.8
+2025-05-15,AWS Lambda,Database,0.65,0.03
+2025-05-15,Amazon RDS,Database,10.9,1.45
+2025-05-15,Amazon EC2,Database,1.68,0.28
+2025-05-15,Amazon S3,Database,9.88,1.69
+2025-05-15,GCP Cloud Functions,Database,12.56,0.73
+2025-05-15,GCP Cloud Functions,Storage,7.03,0.69
+2025-05-15,Google Compute Engine,Networking,9.23,1.37
+2025-05-15,Google Cloud Storage,Networking,7.49,1.01
+2025-05-15,Google Cloud Storage,Storage,0.98,0.11
+2025-05-15,Amazon S3,Networking,20.89,3.93
+2025-05-15,Google Compute Engine,Storage,0.22,0.01
+2025-05-16,Google Compute Engine,Storage,0.71,0.11
+2025-05-16,Amazon EC2,Compute,8.51,0.43
+2025-05-16,AWS Lambda,Database,3.52,0.6
+2025-05-16,GCP Cloud Functions,Compute,6.6,0.75
+2025-05-16,Amazon RDS,Compute,4.46,0.48
+2025-05-17,AWS Lambda,Serverless,1.77,0.21
+2025-05-17,GCP Cloud Functions,Storage,5.84,1.03
+2025-05-17,Google Cloud Storage,Database,5.06,0.78
+2025-05-17,Google Cloud Storage,Compute,0.87,0.08
+2025-05-17,Amazon S3,Networking,0.05,0.0
+2025-05-17,Google Compute Engine,Networking,6.48,1.29
+2025-05-17,Amazon EC2,Storage,0.52,0.04
+2025-05-18,Amazon RDS,Compute,8.05,0.39
+2025-05-18,AWS Lambda,Serverless,4.05,0.6
+2025-05-18,Amazon RDS,Database,4.79,0.22
+2025-05-18,Amazon EC2,Compute,2.2,0.35
+2025-05-18,Google Cloud Storage,Networking,4.04,0.04
+2025-05-18,Amazon S3,Database,7.16,0.12
+2025-05-18,Google Cloud Storage,Serverless,6.85,0.33
+2025-05-18,GCP Cloud Functions,Storage,15.86,1.27
+2025-05-18,GCP Cloud Functions,Database,1.98,0.08
+2025-05-18,Google Compute Engine,Compute,1.82,0.32
+2025-05-18,Google BigQuery,Storage,28.04,2.24
+2025-05-19,Google Cloud Storage,Storage,2.98,0.44
+2025-05-19,Amazon EC2,Database,10.87,1.33
+2025-05-19,Google Cloud Storage,Networking,2.48,0.22
+2025-05-19,Google Compute Engine,Storage,5.95,0.06
+2025-05-19,AWS Lambda,Serverless,4.83,0.37
+2025-05-19,Google BigQuery,Compute,7.9,0.22
+2025-05-19,AWS Lambda,Compute,4.44,0.45
+2025-05-19,Amazon RDS,Storage,5.14,0.11
+2025-05-19,GCP Cloud Functions,Database,4.34,0.51
+2025-05-19,Google Compute Engine,Compute,4.11,0.51
+2025-05-19,Google Cloud Storage,Serverless,5.64,0.92
+2025-05-19,Google Compute Engine,Serverless,1.57,0.26
+2025-05-20,Google BigQuery,Database,3.45,0.09
+2025-05-20,Amazon EC2,Database,0.3,0.02
+2025-05-20,Google BigQuery,Storage,7.68,1.11
+2025-05-20,Amazon EC2,Compute,7.77,0.84
+2025-05-20,GCP Cloud Functions,Database,2.9,0.11
+2025-05-20,Amazon RDS,Serverless,1.99,0.18
+2025-05-20,Google Cloud Storage,Compute,0.46,0.02
+2025-05-20,Google Cloud Storage,Database,4.56,0.68
+2025-05-20,Google Compute Engine,Storage,32.03,6.0
+2025-05-21,GCP Cloud Functions,Storage,5.14,0.46
+2025-05-21,GCP Cloud Functions,Networking,5.06,0.81
+2025-05-21,Google BigQuery,Serverless,0.63,0.06
+2025-05-21,GCP Cloud Functions,Networking,9.16,0.76
+2025-05-21,Google Compute Engine,Storage,4.24,0.52
+2025-05-21,Amazon S3,Networking,1.02,0.08
+2025-05-21,GCP Cloud Functions,Networking,2.04,0.03
+2025-05-22,Amazon S3,Networking,0.12,0.02
+2025-05-22,Amazon S3,Compute,1.59,0.17
+2025-05-22,Google Compute Engine,Networking,1.77,0.33
+2025-05-22,Amazon RDS,Storage,1.5,0.14
+2025-05-22,Google BigQuery,Networking,10.31,1.75
+2025-05-22,GCP Cloud Functions,Compute,1.03,0.17
+2025-05-22,Google Compute Engine,Networking,3.06,0.31
+2025-05-22,GCP Cloud Functions,Compute,0.72,0.02
+2025-05-22,GCP Cloud Functions,Compute,6.51,0.68
+2025-05-22,GCP Cloud Functions,Storage,2.87,0.43
+2025-05-23,GCP Cloud Functions,Networking,7.25,0.29
+2025-05-23,Amazon EC2,Networking,4.71,0.17
+2025-05-23,GCP Cloud Functions,Database,6.96,0.94
+2025-05-23,Amazon EC2,Serverless,15.69,0.36
+2025-05-23,Google Cloud Storage,Compute,0.29,0.02
+2025-05-23,Google Compute Engine,Networking,1.52,0.09
+2025-05-23,Amazon S3,Compute,11.84,0.68
+2025-05-23,AWS Lambda,Database,1.59,0.25
+2025-05-23,Amazon S3,Networking,2.99,0.47
+2025-05-23,Amazon EC2,Compute,0.34,0.03
+2025-05-23,GCP Cloud Functions,Compute,0.17,0.0
+2025-05-24,AWS Lambda,Storage,11.85,0.43
+2025-05-24,Amazon RDS,Serverless,3.8,0.33
+2025-05-24,Google BigQuery,Serverless,2.13,0.39
+2025-05-24,GCP Cloud Functions,Serverless,0.11,0.01
+2025-05-24,AWS Lambda,Compute,16.54,1.93
+2025-05-24,Amazon RDS,Database,13.81,0.28
+2025-05-24,Amazon S3,Storage,2.71,0.16
+2025-05-24,AWS Lambda,Networking,6.56,1.29
+2025-05-24,Amazon RDS,Storage,1.48,0.2
+2025-05-25,Amazon EC2,Database,1.1,0.13
+2025-05-25,GCP Cloud Functions,Networking,3.12,0.61
+2025-05-25,AWS Lambda,Networking,4.69,0.36
+2025-05-25,AWS Lambda,Storage,0.61,0.02
+2025-05-25,Google Compute Engine,Serverless,1.28,0.07
+2025-05-26,Amazon RDS,Database,9.51,1.11
+2025-05-26,Google Compute Engine,Compute,3.71,0.12
+2025-05-26,Amazon EC2,Serverless,9.84,1.45
+2025-05-26,Amazon EC2,Storage,0.35,0.05
+2025-05-26,Google Compute Engine,Compute,3.92,0.1
+2025-05-26,Amazon S3,Networking,3.07,0.31
+2025-05-26,Amazon EC2,Serverless,0.91,0.17
+2025-05-26,Amazon EC2,Storage,9.48,1.3
+2025-05-26,Amazon EC2,Serverless,3.1,0.27
+2025-05-26,GCP Cloud Functions,Storage,5.26,0.6
+2025-05-27,Amazon EC2,Storage,0.32,0.03
+2025-05-27,Google Cloud Storage,Storage,8.21,0.8
+2025-05-27,Google BigQuery,Networking,0.27,0.04
+2025-05-27,Google BigQuery,Storage,1.12,0.07
+2025-05-27,Google Cloud Storage,Storage,0.9,0.07
+2025-05-27,Google Compute Engine,Serverless,7.07,0.77
+2025-05-27,Google Cloud Storage,Database,1.15,0.2
+2025-05-27,Amazon EC2,Networking,10.58,1.86
+2025-05-28,AWS Lambda,Networking,1.36,0.13
+2025-05-28,GCP Cloud Functions,Compute,21.0,3.29
+2025-05-28,Google BigQuery,Serverless,0.14,0.0
+2025-05-28,Google BigQuery,Serverless,3.12,0.57
+2025-05-28,AWS Lambda,Storage,3.87,0.4
+2025-05-28,Google Cloud Storage,Serverless,0.56,0.08
+2025-05-28,Amazon RDS,Networking,8.63,0.71
+2025-05-29,Google Compute Engine,Storage,7.47,1.44
+2025-05-29,Google Cloud Storage,Storage,1.14,0.12
+2025-05-29,GCP Cloud Functions,Compute,1.69,0.27
+2025-05-29,AWS Lambda,Serverless,4.31,0.56
+2025-05-29,Amazon RDS,Serverless,8.0,0.68
+2025-05-29,Google Compute Engine,Database,12.33,1.37
+2025-05-29,Google Compute Engine,Database,0.86,0.12
+2025-05-29,Amazon S3,Serverless,7.88,0.55
+2025-05-29,Google BigQuery,Compute,9.73,1.77
+2025-05-29,Google Compute Engine,Compute,1.62,0.32
+2025-05-29,Google Cloud Storage,Serverless,0.76,0.04
+2025-05-29,Amazon EC2,Compute,1.02,0.18
+2025-05-30,Google Compute Engine,Serverless,5.31,0.21
+2025-05-30,Google Compute Engine,Database,2.9,0.37
+2025-05-30,Google Cloud Storage,Compute,0.44,0.08
+2025-05-30,Google Compute Engine,Storage,8.14,0.86
+2025-05-30,Amazon S3,Serverless,17.08,1.53
+2025-05-30,Google Compute Engine,Networking,20.71,2.84
+2025-05-30,Google Compute Engine,Serverless,5.03,0.21
+2025-05-30,Google Compute Engine,Networking,10.68,0.97
+2025-05-31,Google Cloud Storage,Serverless,0.89,0.01
+2025-05-31,GCP Cloud Functions,Networking,4.1,0.45
+2025-05-31,Google BigQuery,Database,6.35,1.14
+2025-05-31,Google Cloud Storage,Database,0.41,0.06
+2025-05-31,GCP Cloud Functions,Serverless,1.04,0.18
+2025-05-31,Amazon S3,Serverless,8.55,0.96
+2025-05-31,Google BigQuery,Storage,6.19,0.43
+2025-05-31,Google BigQuery,Database,3.19,0.53
+2025-05-31,AWS Lambda,Compute,3.07,0.24
+2025-05-31,Google Compute Engine,Storage,3.41,0.57
+2025-06-01,Google Cloud Storage,Networking,2.04,0.09
+2025-06-01,AWS Lambda,Database,6.22,1.04
+2025-06-01,Amazon RDS,Storage,0.53,0.03
+2025-06-01,Google BigQuery,Storage,0.77,0.06
+2025-06-01,AWS Lambda,Networking,2.99,0.46
+2025-06-02,GCP Cloud Functions,Networking,5.27,0.67
+2025-06-02,Google BigQuery,Database,2.17,0.37
+2025-06-02,GCP Cloud Functions,Serverless,3.19,0.63
+2025-06-02,GCP Cloud Functions,Storage,5.03,0.17
+2025-06-02,Google BigQuery,Storage,5.64,0.4
+2025-06-02,Amazon RDS,Networking,5.8,0.13
+2025-06-02,GCP Cloud Functions,Storage,0.96,0.17
+2025-06-02,Amazon EC2,Networking,1.29,0.22
+2025-06-03,Amazon S3,Compute,1.64,0.22
+2025-06-03,Amazon EC2,Serverless,5.92,0.64
+2025-06-03,Amazon RDS,Storage,1.82,0.09
+2025-06-03,Amazon S3,Storage,0.17,0.01
+2025-06-03,Amazon EC2,Storage,5.29,1.0
+2025-06-04,Google BigQuery,Compute,10.25,1.59
+2025-06-04,GCP Cloud Functions,Serverless,7.77,1.06
+2025-06-04,Amazon EC2,Compute,1.51,0.28
+2025-06-04,AWS Lambda,Compute,5.55,0.65
+2025-06-04,Amazon EC2,Networking,0.59,0.06
+2025-06-04,Google Cloud Storage,Networking,3.08,0.54
+2025-06-04,Google Cloud Storage,Compute,3.96,0.33
+2025-06-04,AWS Lambda,Storage,18.82,0.58
+2025-06-04,Amazon S3,Compute,2.75,0.05
+2025-06-04,Amazon RDS,Storage,6.73,1.24
+2025-06-04,Google Compute Engine,Networking,1.64,0.28
+2025-06-04,Google Cloud Storage,Database,1.73,0.32
+2025-06-05,AWS Lambda,Compute,7.01,1.14
+2025-06-05,Google BigQuery,Serverless,0.09,0.02
+2025-06-05,GCP Cloud Functions,Networking,6.49,0.44
+2025-06-05,Google Compute Engine,Storage,8.84,0.56
+2025-06-05,Google Cloud Storage,Compute,10.31,0.32
+2025-06-05,Amazon EC2,Compute,6.08,0.69
+2025-06-05,AWS Lambda,Serverless,0.51,0.03
+2025-06-05,AWS Lambda,Networking,0.06,0.01
+2025-06-05,GCP Cloud Functions,Compute,1.79,0.22
+2025-06-06,Amazon RDS,Compute,1.76,0.12
+2025-06-06,GCP Cloud Functions,Serverless,6.8,0.13
+2025-06-06,Google BigQuery,Networking,11.66,2.0
+2025-06-06,Amazon S3,Networking,5.51,0.68
+2025-06-06,Amazon EC2,Storage,11.14,0.5
+2025-06-07,GCP Cloud Functions,Database,0.41,0.02
+2025-06-07,Amazon EC2,Compute,7.91,0.13
+2025-06-07,Google Cloud Storage,Networking,4.37,0.87
+2025-06-07,Amazon EC2,Storage,9.68,1.06
+2025-06-07,Google BigQuery,Compute,0.33,0.06
+2025-06-07,Google Compute Engine,Networking,4.57,0.15
+2025-06-07,Amazon RDS,Serverless,0.49,0.09
+2025-06-07,Amazon S3,Database,5.53,0.93
+2025-06-08,Google Compute Engine,Networking,10.56,1.25
+2025-06-08,AWS Lambda,Networking,3.64,0.33
+2025-06-08,Google BigQuery,Serverless,1.91,0.18
+2025-06-08,Amazon RDS,Compute,7.43,0.92
+2025-06-08,Google BigQuery,Compute,11.15,1.05
+2025-06-08,Amazon S3,Serverless,4.67,0.61
+2025-06-08,Google Compute Engine,Compute,4.48,0.64
+2025-06-09,AWS Lambda,Database,1.36,0.15
+2025-06-09,Amazon EC2,Database,0.55,0.05
+2025-06-09,GCP Cloud Functions,Serverless,3.34,0.45
+2025-06-09,Google Compute Engine,Database,15.03,1.87
+2025-06-09,AWS Lambda,Serverless,6.8,0.72
+2025-06-09,Amazon RDS,Networking,5.03,0.12
+2025-06-09,AWS Lambda,Compute,1.47,0.12
+2025-06-09,Google Cloud Storage,Storage,3.2,0.06
+2025-06-09,Amazon S3,Compute,0.75,0.05
+2025-06-09,Google Cloud Storage,Storage,17.79,1.3
+2025-06-10,Amazon RDS,Serverless,3.29,0.16
+2025-06-10,Google BigQuery,Database,4.72,0.3
+2025-06-10,Amazon S3,Compute,1.16,0.13
+2025-06-10,Amazon EC2,Database,0.03,0.0
+2025-06-10,GCP Cloud Functions,Database,1.24,0.02
+2025-06-10,Google Cloud Storage,Compute,0.57,0.04
+2025-06-10,Amazon RDS,Compute,8.11,0.96
+2025-06-10,Amazon RDS,Serverless,3.59,0.24
+2025-06-10,GCP Cloud Functions,Networking,13.42,1.15
+2025-06-10,AWS Lambda,Compute,0.46,0.06
+2025-06-10,Amazon EC2,Compute,0.6,0.05
+2025-06-11,Amazon S3,Networking,3.54,0.62
+2025-06-11,Google BigQuery,Serverless,3.4,0.49
+2025-06-11,Amazon EC2,Database,24.68,0.86
+2025-06-11,AWS Lambda,Serverless,1.61,0.14
+2025-06-11,Amazon S3,Networking,2.74,0.24
+2025-06-11,Google Compute Engine,Networking,11.91,1.73
+2025-06-11,Amazon RDS,Serverless,4.68,0.32
+2025-06-11,Amazon RDS,Storage,8.68,1.66
+2025-06-11,Google Cloud Storage,Database,8.61,0.09
+2025-06-11,Google Cloud Storage,Serverless,5.06,0.1
+2025-06-12,Amazon S3,Storage,1.49,0.03
+2025-06-12,AWS Lambda,Database,4.63,0.65
+2025-06-12,AWS Lambda,Database,0.61,0.05
+2025-06-12,GCP Cloud Functions,Compute,3.05,0.24
+2025-06-12,Google BigQuery,Database,0.64,0.06
+2025-06-12,Google Compute Engine,Serverless,6.96,0.16
+2025-06-12,Google Compute Engine,Serverless,0.42,0.03
+2025-06-13,Amazon RDS,Database,14.21,1.95
+2025-06-13,Amazon EC2,Serverless,5.68,0.45
+2025-06-13,Google BigQuery,Networking,4.5,0.05
+2025-06-13,AWS Lambda,Database,5.05,0.93
+2025-06-13,GCP Cloud Functions,Database,4.74,0.83
+2025-06-13,AWS Lambda,Networking,6.44,0.21
+2025-06-14,Google Cloud Storage,Database,11.64,0.26
+2025-06-14,Google Compute Engine,Serverless,3.82,0.14
+2025-06-14,Google BigQuery,Storage,0.06,0.01
+2025-06-14,AWS Lambda,Database,1.75,0.18
+2025-06-14,Google Cloud Storage,Serverless,4.3,0.08
+2025-06-14,Google Compute Engine,Database,0.66,0.08
+2025-06-14,AWS Lambda,Database,2.1,0.31
+2025-06-15,Google BigQuery,Compute,5.28,0.9
+2025-06-15,Google Compute Engine,Networking,5.9,0.54
+2025-06-15,Amazon RDS,Networking,5.59,0.35
+2025-06-15,Amazon EC2,Serverless,1.83,0.29
+2025-06-15,Google Compute Engine,Serverless,2.96,0.48
+2025-06-15,Google Cloud Storage,Compute,8.64,1.49
+2025-06-15,AWS Lambda,Serverless,12.42,1.14
+2025-06-15,Amazon RDS,Database,1.92,0.23
+2025-06-15,Google Compute Engine,Database,2.32,0.29
+2025-06-15,Amazon RDS,Serverless,6.11,0.86
+2025-06-15,AWS Lambda,Compute,2.35,0.1
+2025-06-16,GCP Cloud Functions,Networking,2.82,0.1
+2025-06-16,AWS Lambda,Networking,11.04,0.84
+2025-06-16,AWS Lambda,Networking,0.84,0.01
+2025-06-16,Amazon EC2,Database,5.19,0.68
+2025-06-16,Amazon S3,Compute,2.08,0.05
+2025-06-16,Google Compute Engine,Database,2.64,0.18
+2025-06-16,Amazon RDS,Networking,5.65,0.71
+2025-06-16,Amazon EC2,Networking,2.27,0.12
+2025-06-16,AWS Lambda,Database,22.13,2.13
+2025-06-16,AWS Lambda,Compute,5.83,0.21
+2025-06-16,Amazon EC2,Compute,3.32,0.05
+2025-06-16,Google Cloud Storage,Storage,3.52,0.68
+2025-06-17,GCP Cloud Functions,Database,2.42,0.04
+2025-06-17,AWS Lambda,Serverless,0.16,0.01
+2025-06-17,Amazon RDS,Database,0.87,0.01
+2025-06-17,Amazon EC2,Serverless,7.06,0.69
+2025-06-17,Amazon S3,Database,1.71,0.31
+2025-06-17,AWS Lambda,Compute,0.62,0.12
+2025-06-17,Amazon S3,Storage,1.88,0.34
+2025-06-17,Google BigQuery,Database,4.62,0.77
+2025-06-18,GCP Cloud Functions,Storage,20.68,1.34
+2025-06-18,GCP Cloud Functions,Database,16.24,1.36
+2025-06-18,GCP Cloud Functions,Compute,2.43,0.18
+2025-06-18,GCP Cloud Functions,Serverless,3.9,0.15
+2025-06-18,Google BigQuery,Compute,4.03,0.46
+2025-06-18,Google Cloud Storage,Compute,7.18,1.21
+2025-06-18,Amazon S3,Compute,2.9,0.2
+2025-06-18,Google BigQuery,Compute,1.5,0.07
+2025-06-18,Amazon RDS,Storage,0.3,0.02
+2025-06-18,Amazon RDS,Networking,1.58,0.31
+2025-06-19,Google BigQuery,Networking,4.08,0.31
+2025-06-19,AWS Lambda,Serverless,4.34,0.16
+2025-06-19,Google Compute Engine,Serverless,2.94,0.38
+2025-06-19,Amazon RDS,Storage,3.36,0.29
+2025-06-19,AWS Lambda,Serverless,25.46,4.51
+2025-06-19,Amazon EC2,Networking,4.88,0.58
+2025-06-19,Google Compute Engine,Serverless,4.85,0.23
+2025-06-20,AWS Lambda,Compute,2.51,0.04
+2025-06-20,Google Compute Engine,Storage,3.23,0.37
+2025-06-20,Google Cloud Storage,Compute,1.29,0.25
+2025-06-20,Amazon S3,Networking,12.01,1.77
+2025-06-20,Amazon RDS,Database,3.81,0.67
+2025-06-20,Google BigQuery,Storage,0.7,0.11
+2025-06-20,GCP Cloud Functions,Compute,0.67,0.11
+2025-06-20,Google Cloud Storage,Serverless,1.61,0.28
+2025-06-20,Google BigQuery,Networking,14.42,0.55
+2025-06-20,AWS Lambda,Networking,3.11,0.61
+2025-06-20,AWS Lambda,Networking,3.3,0.57
+2025-06-21,Google BigQuery,Database,4.44,0.36
+2025-06-21,GCP Cloud Functions,Networking,1.68,0.08
+2025-06-21,Amazon RDS,Database,7.17,0.6
+2025-06-21,Amazon S3,Storage,3.58,0.37
+2025-06-21,Google BigQuery,Compute,4.31,0.75
+2025-06-21,Google Compute Engine,Database,19.75,1.73
+2025-06-22,Amazon RDS,Database,8.79,1.36
+2025-06-22,Amazon RDS,Networking,4.26,0.82
+2025-06-22,AWS Lambda,Serverless,1.12,0.03
+2025-06-22,Amazon RDS,Networking,9.62,0.9
+2025-06-22,AWS Lambda,Serverless,9.39,1.69
+2025-06-22,Amazon RDS,Serverless,0.32,0.06
+2025-06-23,Amazon RDS,Serverless,2.97,0.32
+2025-06-23,Google Cloud Storage,Storage,4.93,0.92
+2025-06-23,Amazon RDS,Database,0.1,0.01
+2025-06-23,GCP Cloud Functions,Networking,5.82,0.86
+2025-06-23,Amazon EC2,Database,5.9,0.21
+2025-06-23,Amazon EC2,Serverless,1.78,0.14
+2025-06-23,Amazon RDS,Storage,8.16,0.51
+2025-06-24,GCP Cloud Functions,Serverless,1.18,0.23
+2025-06-24,GCP Cloud Functions,Serverless,0.04,0.01
+2025-06-24,GCP Cloud Functions,Serverless,5.65,0.95
+2025-06-24,Amazon RDS,Compute,1.75,0.02
+2025-06-24,Amazon EC2,Storage,6.69,1.13
+2025-06-24,Google Cloud Storage,Compute,6.74,0.25
+2025-06-24,Google Cloud Storage,Storage,7.0,1.09
+2025-06-24,Google Cloud Storage,Storage,5.37,0.84
+2025-06-24,GCP Cloud Functions,Networking,9.35,1.18
+2025-06-24,GCP Cloud Functions,Networking,0.46,0.05
+2025-06-24,Amazon S3,Networking,0.4,0.03
+2025-06-25,Google Cloud Storage,Networking,2.61,0.06
+2025-06-25,Google BigQuery,Networking,2.14,0.07
+2025-06-25,Amazon EC2,Serverless,8.26,1.57
+2025-06-25,Google Compute Engine,Serverless,0.38,0.07
+2025-06-25,Amazon S3,Storage,3.7,0.25
+2025-06-25,Google Cloud Storage,Compute,0.4,0.04
+2025-06-26,Google Cloud Storage,Database,7.91,1.14
+2025-06-26,Amazon S3,Serverless,0.26,0.01
+2025-06-26,Amazon S3,Storage,2.58,0.17
+2025-06-26,Google Compute Engine,Networking,1.32,0.08
+2025-06-26,Google BigQuery,Networking,8.14,1.52
+2025-06-26,AWS Lambda,Storage,2.6,0.47
+2025-06-26,Amazon RDS,Storage,1.94,0.2
+2025-06-26,Google Compute Engine,Compute,1.28,0.17
+2025-06-26,Google BigQuery,Networking,19.31,2.41
+2025-06-26,Google Cloud Storage,Networking,2.21,0.29
+2025-06-26,Amazon RDS,Database,0.66,0.12
+2025-06-26,Google Cloud Storage,Database,3.5,0.33
+2025-06-27,Amazon S3,Storage,4.41,0.57
+2025-06-27,AWS Lambda,Compute,0.37,0.05
+2025-06-27,Google Cloud Storage,Storage,1.38,0.2
+2025-06-27,Amazon RDS,Storage,8.64,1.41
+2025-06-27,Amazon RDS,Database,4.02,0.44
+2025-06-27,Google Compute Engine,Serverless,0.77,0.12
+2025-06-27,GCP Cloud Functions,Storage,1.58,0.16
+2025-06-27,Google Cloud Storage,Serverless,1.67,0.06
+2025-06-27,AWS Lambda,Serverless,4.97,0.1
+2025-06-28,Amazon S3,Serverless,6.9,0.49
+2025-06-28,Google Cloud Storage,Database,0.0,0.0
+2025-06-28,GCP Cloud Functions,Serverless,0.24,0.01
+2025-06-28,Google BigQuery,Networking,6.14,0.13
+2025-06-28,Amazon EC2,Compute,9.14,0.1
+2025-06-28,GCP Cloud Functions,Database,1.42,0.21
+2025-06-29,AWS Lambda,Storage,1.9,0.06
+2025-06-29,AWS Lambda,Storage,2.23,0.14
+2025-06-29,GCP Cloud Functions,Database,9.25,0.64
+2025-06-29,Google BigQuery,Database,7.78,1.4
+2025-06-29,Google BigQuery,Networking,2.84,0.52
+2025-06-29,Amazon RDS,Networking,2.37,0.46
+2025-06-30,Google BigQuery,Compute,0.47,0.07
+2025-06-30,Amazon EC2,Compute,3.4,0.28
+2025-06-30,GCP Cloud Functions,Compute,5.01,0.72
+2025-06-30,Amazon S3,Storage,0.02,0.0
+2025-06-30,GCP Cloud Functions,Serverless,6.24,0.85
+2025-06-30,Amazon EC2,Serverless,16.91,2.61
+2025-06-30,Google Compute Engine,Storage,15.06,2.16
+2025-06-30,Google Cloud Storage,Storage,1.77,0.05
+2025-06-30,Google Cloud Storage,Compute,7.61,1.01
+2025-06-30,Google BigQuery,Database,0.25,0.02
+2025-06-30,Amazon S3,Database,15.71,1.65
+2025-06-30,Amazon RDS,Compute,2.83,0.27
+2025-07-01,Google Cloud Storage,Storage,1.17,0.09
+2025-07-01,AWS Lambda,Compute,2.31,0.05
+2025-07-01,Amazon S3,Compute,7.3,0.65
+2025-07-01,Google Compute Engine,Serverless,8.63,1.48
+2025-07-01,Amazon S3,Storage,1.19,0.16
+2025-07-01,Google Compute Engine,Networking,3.2,0.57
+2025-07-01,GCP Cloud Functions,Compute,1.22,0.17
+2025-07-01,Amazon EC2,Database,4.68,0.31
+2025-07-01,Amazon S3,Serverless,0.73,0.1
+2025-07-01,Amazon RDS,Serverless,6.71,0.47
+2025-07-01,Amazon S3,Storage,5.18,0.44
+2025-07-02,Amazon S3,Compute,6.24,0.3
+2025-07-02,Amazon S3,Database,11.05,0.71
+2025-07-02,Google BigQuery,Database,2.29,0.05
+2025-07-02,Amazon RDS,Serverless,0.59,0.06
+2025-07-02,Amazon RDS,Storage,1.56,0.26
+2025-07-02,Amazon S3,Networking,0.07,0.01
+2025-07-02,Amazon EC2,Networking,2.06,0.03
+2025-07-02,Amazon RDS,Serverless,0.66,0.06
+2025-07-02,Google BigQuery,Storage,3.39,0.29
+2025-07-02,Amazon RDS,Serverless,3.79,0.47
+2025-07-02,GCP Cloud Functions,Storage,0.05,0.0
+2025-07-03,Amazon S3,Storage,16.55,1.8
+2025-07-03,Amazon S3,Networking,5.66,0.39
+2025-07-03,AWS Lambda,Database,7.44,1.17
+2025-07-03,AWS Lambda,Database,3.68,0.72
+2025-07-03,Amazon RDS,Storage,0.67,0.01
+2025-07-03,Google Cloud Storage,Compute,7.35,1.2
+2025-07-04,Google Cloud Storage,Compute,0.64,0.04
+2025-07-04,Google Cloud Storage,Storage,0.09,0.01
+2025-07-04,Google Compute Engine,Serverless,7.42,0.8
+2025-07-04,Google Cloud Storage,Compute,2.14,0.17
+2025-07-04,Google Compute Engine,Serverless,0.01,0.0
+2025-07-04,AWS Lambda,Compute,5.2,1.01
+2025-07-04,Google Compute Engine,Serverless,9.39,0.14
+2025-07-04,Amazon S3,Networking,11.44,1.82
+2025-07-05,Google BigQuery,Database,7.58,0.74
+2025-07-05,Amazon RDS,Serverless,2.54,0.17
+2025-07-05,AWS Lambda,Database,0.34,0.02
+2025-07-05,Amazon RDS,Serverless,1.42,0.14
+2025-07-05,Amazon S3,Compute,6.88,0.69
+2025-07-06,Amazon EC2,Database,0.3,0.06
+2025-07-06,Google Compute Engine,Compute,14.3,2.28
+2025-07-06,Amazon EC2,Serverless,23.74,2.69
+2025-07-06,Google Cloud Storage,Networking,16.45,0.4
+2025-07-06,AWS Lambda,Serverless,2.28,0.12
+2025-07-06,AWS Lambda,Compute,1.09,0.04
+2025-07-07,Google Cloud Storage,Compute,4.87,0.77
+2025-07-07,Google Cloud Storage,Compute,4.32,0.16
+2025-07-07,Google Compute Engine,Storage,8.33,1.09
+2025-07-07,Google BigQuery,Serverless,2.46,0.34
+2025-07-07,Amazon S3,Database,1.5,0.11
+2025-07-07,AWS Lambda,Storage,12.47,0.81
+2025-07-07,Amazon EC2,Storage,3.17,0.57
+2025-07-08,AWS Lambda,Compute,6.15,0.13
+2025-07-08,GCP Cloud Functions,Networking,0.8,0.01
+2025-07-08,Amazon EC2,Database,4.98,0.47
+2025-07-08,Amazon RDS,Compute,0.72,0.14
+2025-07-08,Amazon EC2,Storage,3.77,0.21
+2025-07-08,Amazon EC2,Storage,3.47,0.48
+2025-07-09,Google BigQuery,Networking,0.4,0.02
+2025-07-09,Google Cloud Storage,Storage,8.22,0.8
+2025-07-09,Google BigQuery,Storage,3.95,0.36
+2025-07-09,Google Cloud Storage,Compute,0.22,0.01
+2025-07-09,Amazon EC2,Database,2.95,0.15
+2025-07-09,AWS Lambda,Database,0.26,0.04
+2025-07-09,Amazon S3,Database,19.87,3.19
+2025-07-09,Amazon S3,Serverless,9.61,0.54
+2025-07-09,GCP Cloud Functions,Networking,16.17,0.77
+2025-07-09,Google BigQuery,Compute,15.12,3.01
+2025-07-09,GCP Cloud Functions,Networking,6.22,1.22
+2025-07-09,Amazon RDS,Database,4.21,0.25
+2025-07-10,Google Cloud Storage,Compute,2.87,0.35
+2025-07-10,Amazon S3,Storage,0.38,0.05
+2025-07-10,Amazon EC2,Compute,19.86,0.92
+2025-07-10,Amazon EC2,Storage,7.87,1.44
+2025-07-10,Amazon EC2,Serverless,14.39,2.77
+2025-07-10,Google BigQuery,Serverless,3.69,0.72
+2025-07-10,Amazon RDS,Storage,7.08,0.29
+2025-07-11,AWS Lambda,Storage,3.24,0.47
+2025-07-11,Google BigQuery,Storage,1.42,0.19
+2025-07-11,AWS Lambda,Database,5.49,0.22
+2025-07-11,Google Cloud Storage,Compute,4.16,0.65
+2025-07-11,Google BigQuery,Compute,3.45,0.04
+2025-07-12,Amazon RDS,Storage,0.05,0.0
+2025-07-12,Amazon EC2,Serverless,13.03,0.7
+2025-07-12,Amazon S3,Serverless,5.03,0.26
+2025-07-12,Google Cloud Storage,Database,1.94,0.33
+2025-07-12,Google BigQuery,Compute,6.53,0.18
+2025-07-13,Amazon EC2,Database,2.8,0.04
+2025-07-13,Google Compute Engine,Database,3.28,0.45
+2025-07-13,Google Cloud Storage,Networking,0.63,0.04
+2025-07-13,Google Compute Engine,Serverless,2.54,0.47
+2025-07-13,Google BigQuery,Networking,24.99,0.46
+2025-07-13,GCP Cloud Functions,Storage,7.16,0.58
+2025-07-13,Google Compute Engine,Storage,2.49,0.38
+2025-07-13,Amazon EC2,Serverless,12.53,2.39
+2025-07-13,Amazon EC2,Storage,4.3,0.33
+2025-07-13,Google BigQuery,Compute,7.75,0.45
+2025-07-13,Google BigQuery,Compute,4.15,0.32
+2025-07-13,AWS Lambda,Database,5.34,0.3
+2025-07-14,Google Compute Engine,Networking,1.06,0.2
+2025-07-14,Google Compute Engine,Serverless,0.54,0.06
+2025-07-14,GCP Cloud Functions,Compute,1.25,0.02
+2025-07-14,Amazon RDS,Database,0.18,0.01
+2025-07-14,Amazon S3,Compute,10.08,0.64
+2025-07-14,Google Compute Engine,Networking,15.02,1.81
+2025-07-15,Google BigQuery,Serverless,2.87,0.35
+2025-07-15,Amazon S3,Networking,3.64,0.56
+2025-07-15,Amazon S3,Networking,1.66,0.13
+2025-07-15,Amazon RDS,Serverless,11.23,2.13
+2025-07-15,Amazon S3,Networking,11.15,1.0
+2025-07-15,Amazon EC2,Serverless,7.58,0.76
+2025-07-15,Amazon RDS,Storage,3.44,0.17
+2025-07-15,Google Cloud Storage,Database,4.47,0.2
+2025-07-15,Google BigQuery,Serverless,2.01,0.35
+2025-07-15,Google BigQuery,Database,1.16,0.03
+2025-07-15,GCP Cloud Functions,Database,0.36,0.07
+2025-07-16,Amazon S3,Storage,3.54,0.31
+2025-07-16,Amazon RDS,Networking,8.33,1.41
+2025-07-16,Amazon S3,Storage,2.02,0.29
+2025-07-16,Amazon S3,Storage,7.37,0.99
+2025-07-16,GCP Cloud Functions,Serverless,0.82,0.14
+2025-07-16,Google BigQuery,Serverless,3.87,0.25
+2025-07-16,Amazon S3,Networking,2.77,0.05
+2025-07-16,Google BigQuery,Storage,0.68,0.11
+2025-07-17,Google Cloud Storage,Serverless,0.0,0.0
+2025-07-17,Google Cloud Storage,Compute,3.7,0.08
+2025-07-17,Amazon S3,Storage,18.07,0.96
+2025-07-17,Google Cloud Storage,Networking,1.81,0.12
+2025-07-17,Amazon EC2,Storage,1.31,0.01
+2025-07-17,Google BigQuery,Storage,6.53,1.26
+2025-07-17,Amazon S3,Storage,1.27,0.17
+2025-07-17,Google BigQuery,Serverless,6.77,1.16
+2025-07-17,Amazon EC2,Database,2.75,0.19
+2025-07-17,Google Cloud Storage,Storage,1.97,0.29
+2025-07-17,Amazon EC2,Serverless,8.49,0.38
+2025-07-17,GCP Cloud Functions,Networking,2.32,0.42
+2025-07-18,Amazon S3,Serverless,8.22,1.62
+2025-07-18,Amazon S3,Storage,7.02,0.59
+2025-07-18,Amazon S3,Compute,4.47,0.61
+2025-07-18,Amazon EC2,Storage,0.41,0.05
+2025-07-18,Amazon RDS,Storage,6.18,0.26
+2025-07-18,AWS Lambda,Database,7.59,0.92
+2025-07-18,Amazon S3,Networking,15.21,0.27
+2025-07-18,Google Cloud Storage,Compute,1.54,0.19
+2025-07-19,Amazon S3,Storage,1.76,0.26
+2025-07-19,GCP Cloud Functions,Storage,7.11,0.21
+2025-07-19,Amazon S3,Database,3.61,0.39
+2025-07-19,Amazon S3,Compute,2.3,0.43
+2025-07-19,GCP Cloud Functions,Compute,8.79,1.25
+2025-07-20,AWS Lambda,Serverless,6.26,0.61
+2025-07-20,GCP Cloud Functions,Compute,12.69,1.8
+2025-07-20,AWS Lambda,Serverless,6.53,1.13
+2025-07-20,Amazon RDS,Database,1.6,0.26
+2025-07-20,Google Compute Engine,Storage,1.09,0.08
+2025-07-20,Google Cloud Storage,Database,2.04,0.4
+2025-07-20,GCP Cloud Functions,Storage,9.71,1.39
+2025-07-21,Google Compute Engine,Database,6.49,0.76
+2025-07-21,GCP Cloud Functions,Serverless,14.7,1.53
+2025-07-21,GCP Cloud Functions,Compute,2.39,0.1
+2025-07-21,Amazon S3,Database,7.71,1.15
+2025-07-21,AWS Lambda,Storage,2.43,0.04
+2025-07-22,Google Compute Engine,Networking,9.13,0.11
+2025-07-22,Google Compute Engine,Networking,6.08,1.18
+2025-07-22,Amazon EC2,Serverless,2.88,0.16
+2025-07-22,Google BigQuery,Serverless,6.1,1.01
+2025-07-22,GCP Cloud Functions,Database,3.95,0.77
+2025-07-22,Google BigQuery,Serverless,0.27,0.03
+2025-07-22,Google Cloud Storage,Storage,6.34,1.1
+2025-07-22,Amazon EC2,Database,0.99,0.16
+2025-07-22,Google Compute Engine,Compute,4.02,0.34
+2025-07-22,Google Cloud Storage,Compute,0.71,0.12
+2025-07-22,GCP Cloud Functions,Networking,0.86,0.06
+2025-07-23,Google Compute Engine,Storage,1.71,0.3
+2025-07-23,Amazon S3,Storage,5.58,0.9
+2025-07-23,Google Compute Engine,Database,1.44,0.19
+2025-07-23,Amazon EC2,Storage,4.24,0.71
+2025-07-23,AWS Lambda,Database,11.83,0.15
+2025-07-23,Amazon RDS,Storage,5.6,0.11
+2025-07-23,Google Compute Engine,Networking,3.98,0.26
+2025-07-23,Google BigQuery,Database,1.83,0.14
+2025-07-23,Amazon EC2,Database,4.85,0.36
+2025-07-23,Amazon RDS,Networking,6.6,0.57
+2025-07-24,GCP Cloud Functions,Networking,0.35,0.06
+2025-07-24,Google Cloud Storage,Storage,1.68,0.15
+2025-07-24,GCP Cloud Functions,Compute,5.78,0.42
+2025-07-24,Amazon S3,Compute,0.29,0.02
+2025-07-24,Google Compute Engine,Networking,14.45,1.91
+2025-07-24,Google Compute Engine,Compute,5.57,0.72
+2025-07-24,GCP Cloud Functions,Compute,1.11,0.1
+2025-07-24,Google BigQuery,Networking,6.95,0.2
