@@ -1,76 +1,77 @@
-# Cloud Cost Analyser 
+# Cloud Cost Analyser (AWS)
 
-This project started off as a way to prove I could actually build something real using AWS — and it ended up becoming a full-fledged cloud billing analysis tool.
+A fully serverless AWS cost monitoring and alerting system designed to provide clear visibility into cloud spend and notify teams when costs cross defined thresholds.
 
-The idea?  
-- Use AWS Lambda + Cost Explorer to fetch billing data.  
-- Store that in S3.  
-- Monitor it with CloudWatch.  
-- Trigger alerts using SNS when costs cross limits.  
+This project demonstrates how to automate cloud billing analysis using native AWS services with Infrastructure as Code.
 
+---
 
-All of this is automated, serverless, and running clean.
+## 🔍 What This Project Does
+
+- Fetches AWS billing data using **AWS Cost Explorer**
+- Stores cost data in **Amazon S3** (JSON / CSV)
+- Monitors usage using **Amazon CloudWatch**
+- Triggers automated **email alerts via SNS** when cost thresholds are exceeded
+- Runs on a **daily schedule** using EventBridge
+- Fully automated, serverless, and reproducible using Terraform
+
+---
+
+## 🧱 Architecture Overview
+
+AWS Lambda (Python)  
+→ Fetches cost data via Boto3  
+→ Stores data in Amazon S3  
+
+Amazon CloudWatch  
+→ Monitors billing metrics  
+→ Triggers alarms  
+
+Amazon SNS  
+→ Sends email notifications  
+
+Amazon EventBridge  
+→ Invokes Lambda on a daily schedule  
 
 ---
 
 ## ⚙️ Tech Stack
 
-- **Terraform** – Infra as Code to spin up everything neatly.  
-- **AWS Lambda** – Python script to fetch billing data via Boto3.  
-- **AWS S3** – Stores billing data in JSON/CSV.  
-- **CloudWatch** – Monitors billing and triggers alerts.  
-- **SNS** – Sends email alerts when budget crosses threshold.  
-- **EventBridge Scheduler** – Triggers the Lambda function daily.  
-- **Python (Boto3)** – For AWS API interactions.
+- **Terraform** – Infrastructure as Code (end-to-end provisioning)
+- **AWS Lambda** – Serverless cost data collection
+- **Amazon S3** – Cost data storage
+- **Amazon CloudWatch** – Monitoring and alarms
+- **Amazon SNS** – Email notifications
+- **Amazon EventBridge** – Scheduled execution
+- **Python (Boto3)** – AWS API interactions
 
 ---
 
-## 🔨 What I Built
+## 🔨 What I Implemented
 
-I handled the cloud automation part end-to-end. That includes:
+- Designed and deployed the full infrastructure using **Terraform**
+- Created secure **IAM roles and Cost Explorer permissions**
+- Automated daily cost data collection and storage in S3
+- Configured CloudWatch alarms and SNS notifications
+- Structured the repository for easy understanding and handoff
 
-- Writing and deploying Terraform config to set up the Lambda robot.  
-- Creating IAM roles and setting up cost explorer permissions.  
-- Making sure the billing data lands in the S3 bucket daily.  
-- Setting up CloudWatch + SNS to send alerts when costs spike.  
-- Fetching real billing data from my own AWS account (with the amount at 0 — because I’m too early in the game to rack up big bills 😉).  
-- Organized everything cleanly for a recruiter or teammate to easily understand.
+> Note: Billing values are currently minimal as this was tested on a personal AWS account. The system is production-ready and scalable.
 
+---
+
+## 🖼️ Screenshots Included
+
+- Lambda configuration
+- S3 cost data uploads
+- EventBridge scheduling rule
+- CloudWatch billing alarm
+- SNS alert setup
 
 
 ---
 
-## 🖼️ Screenshots
+## 🎯 Use Cases
 
-Screenshots included for:
-
-- Lambda Function Setup  
-- S3 Bucket Uploads  
-- EventBridge Trigger Rule  
-- SNS Alert Setup  
-- Billing Alarm in CloudWatch  
-
----
-
-## 📂 Folder Structure
-
-```bash
-📁 sample-data/
-    └── cloud_billing_dataset.csv
-
-📁 terraform/
-    ├── main.tf
-    ├── provider.tf
-    └── lambda.tf
-
-📁 documentation/
-    ├── lambda_setup1.png
-    ├── lambda_setup2.png
-    ├── s3_bucket_upload.png
-    ├── eventbridge_rule.png
-    └── billing_alarm.png
-
-📁 lambda/
-    ├── lambda_function.py
-
-📄 README.md
+- AWS cost monitoring for startups and small teams
+- Automated budget alerts
+- Cloud cost visibility without third-party tools
